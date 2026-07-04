@@ -1,0 +1,6186 @@
+{
+  "system": {
+    "hostname": "REFKA",
+    "domain": "WORKGROUP",
+    "os_name": "Microsoft Windows 11 Famille Unilingue",
+    "os_version": "10.0.26200",
+    "os_build": "26200",
+    "manufacturer": "HP",
+    "model": "Victus by HP Gaming Laptop 15-fa2xxx",
+    "total_ram_gb": 23.64,
+    "current_user": "REFKA\\refka_0ju0t82",
+    "collection_time": "2026-06-18 19:26:41",
+    "last_boot": "/Date(1781289885500)/"
+  },
+  "users": {
+    "total": 7,
+    "enabled": 2,
+    "disabled": 5,
+    "never_logged": 5,
+    "users_list": [
+      {
+        "name": "Administrateur",
+        "enabled": false,
+        "last_logon": "2025-08-25 00:51:50",
+        "description": "Compte d’utilisateur d’administration",
+        "password_required": false,
+        "password_expired": null,
+        "user_can_change_pwd": true,
+        "sid": "S-1-5-21-3016317579-1913169955-2457313199-500"
+      },
+      {
+        "name": "DefaultAccount",
+        "enabled": false,
+        "last_logon": "Jamais",
+        "description": "Compte utilisateur géré par le système.",
+        "password_required": false,
+        "password_expired": null,
+        "user_can_change_pwd": true,
+        "sid": "S-1-5-21-3016317579-1913169955-2457313199-503"
+      },
+      {
+        "name": "Invité",
+        "enabled": false,
+        "last_logon": "Jamais",
+        "description": "Compte d’utilisateur invité",
+        "password_required": false,
+        "password_expired": null,
+        "user_can_change_pwd": false,
+        "sid": "S-1-5-21-3016317579-1913169955-2457313199-501"
+      },
+      {
+        "name": "refka",
+        "enabled": true,
+        "last_logon": "Jamais",
+        "description": "",
+        "password_required": true,
+        "password_expired": null,
+        "user_can_change_pwd": true,
+        "sid": "S-1-5-21-3016317579-1913169955-2457313199-1001"
+      },
+      {
+        "name": "refka_0ju0t82",
+        "enabled": true,
+        "last_logon": "Jamais",
+        "description": "",
+        "password_required": true,
+        "password_expired": null,
+        "user_can_change_pwd": true,
+        "sid": "S-1-5-21-3016317579-1913169955-2457313199-1002"
+      },
+      {
+        "name": "WDAGUtilityAccount",
+        "enabled": false,
+        "last_logon": "Jamais",
+        "description": "Compte d’utilisateur géré et utilisé par le système pour les scénarios Windows Defender Application Guard.",
+        "password_required": true,
+        "password_expired": null,
+        "user_can_change_pwd": true,
+        "sid": "S-1-5-21-3016317579-1913169955-2457313199-504"
+      },
+      {
+        "name": "WsiAccount",
+        "enabled": false,
+        "last_logon": "2026-06-15 11:42:30",
+        "description": "Un compte d’utilisateur géré et utilisé par le système pour les scénarios de connexion web.",
+        "password_required": false,
+        "password_expired": null,
+        "user_can_change_pwd": false,
+        "sid": "S-1-5-21-3016317579-1913169955-2457313199-1003"
+      }
+    ]
+  },
+  "administrators": {},
+  "processes": {
+    "total": 320,
+    "top_memory": [
+      {
+        "name": "Memory Compression",
+        "pid": 3800,
+        "cpu_time": 1221.09,
+        "memory_mb": 1006.93,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "OmenCommandCenterBackground",
+        "pid": 18096,
+        "cpu_time": 8319.89,
+        "memory_mb": 542.72,
+        "path": "C:\\Program Files\\WindowsApps\\AD2F1837.OMENCommandCenter_1101.2605.2.0_x64__v10z8vjag6ke6\\OmenCommandCenterApp\\OmenCommandCenterBackground.exe",
+        "company": "HP Inc.",
+        "version": "1101.2605.2.0"
+      },
+      {
+        "name": "explorer",
+        "pid": 12272,
+        "cpu_time": 1902.81,
+        "memory_mb": 434.02,
+        "path": "C:\\windows\\Explorer.EXE",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "Code",
+        "pid": 4600,
+        "cpu_time": 11.25,
+        "memory_mb": 381.33,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.125.0"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 2680,
+        "cpu_time": 1794.45,
+        "memory_mb": 276.11,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "MsMpEng",
+        "pid": 5884,
+        "cpu_time": 4357.88,
+        "memory_mb": 241.02,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "OneDrive",
+        "pid": 25336,
+        "cpu_time": 1602.08,
+        "memory_mb": 212.96,
+        "path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+        "company": "Microsoft Corporation",
+        "version": "26.095.0519.0003"
+      },
+      {
+        "name": "msedge",
+        "pid": 14348,
+        "cpu_time": 6.94,
+        "memory_mb": 208.93,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "powershell",
+        "pid": 7704,
+        "cpu_time": 10.52,
+        "memory_mb": 200.37,
+        "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "chrome",
+        "pid": 42024,
+        "cpu_time": 6.34,
+        "memory_mb": 191.51,
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "company": "Google LLC",
+        "version": "149.0.7827.155"
+      },
+      {
+        "name": "Code",
+        "pid": 17148,
+        "cpu_time": 3.66,
+        "memory_mb": 174.55,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.125.0"
+      },
+      {
+        "name": "Code",
+        "pid": 7816,
+        "cpu_time": 4.67,
+        "memory_mb": 172.54,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.125.0"
+      },
+      {
+        "name": "StartMenuExperienceHost",
+        "pid": 12596,
+        "cpu_time": 133.67,
+        "memory_mb": 151.76,
+        "path": "C:\\windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8655"
+      },
+      {
+        "name": "Code",
+        "pid": 34424,
+        "cpu_time": 2.08,
+        "memory_mb": 149.2,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.125.0"
+      },
+      {
+        "name": "Code",
+        "pid": 33948,
+        "cpu_time": 1.53,
+        "memory_mb": 133.61,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.125.0"
+      }
+    ],
+    "all": [
+      {
+        "name": "AggregatorHost",
+        "pid": 10904,
+        "cpu_time": 2.06,
+        "memory_mb": 4.34,
+        "path": "C:\\windows\\System32\\AggregatorHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "AppActions",
+        "pid": 6772,
+        "cpu_time": 8.78,
+        "memory_mb": 10.15,
+        "path": "C:\\windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\AppActions.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "AppHelperCap",
+        "pid": 3988,
+        "cpu_time": 51.28,
+        "memory_mb": 16.73,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_db0ee1e66e6d408e\\x64\\AppHelperCap.exe",
+        "company": "HP Inc.",
+        "version": "1.85.4367.0"
+      },
+      {
+        "name": "ApplicationFrameHost",
+        "pid": 5536,
+        "cpu_time": 3.22,
+        "memory_mb": 10.97,
+        "path": "C:\\windows\\system32\\ApplicationFrameHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "AppVShNotify",
+        "pid": 32196,
+        "cpu_time": 0.66,
+        "memory_mb": 3.89,
+        "path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\AppVShNotify.exe",
+        "company": "Microsoft Corporation",
+        "version": "16.0.19929.20032"
+      },
+      {
+        "name": "audiodg",
+        "pid": 25180,
+        "cpu_time": 0.34,
+        "memory_mb": 21.69,
+        "path": "C:\\windows\\system32\\AUDIODG.EXE",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "backgroundTaskHost",
+        "pid": 16296,
+        "cpu_time": 0.23,
+        "memory_mb": 0.44,
+        "path": "C:\\windows\\system32\\backgroundTaskHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.1"
+      },
+      {
+        "name": "backgroundTaskHost",
+        "pid": 30052,
+        "cpu_time": 0.22,
+        "memory_mb": 0.48,
+        "path": "C:\\windows\\system32\\backgroundTaskHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.1"
+      },
+      {
+        "name": "BridgeCommunication",
+        "pid": 15844,
+        "cpu_time": 1.7,
+        "memory_mb": 4.14,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_db0ee1e66e6d408e\\x64\\BridgeCommunication.exe",
+        "company": "HP Inc.",
+        "version": "1.85.4367.0"
+      },
+      {
+        "name": "BridgeCommunication",
+        "pid": 19300,
+        "cpu_time": 8.38,
+        "memory_mb": 17.23,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_db0ee1e66e6d408e\\x64\\BridgeCommunication.exe",
+        "company": "HP Inc.",
+        "version": "1.85.4367.0"
+      },
+      {
+        "name": "BridgeCommunication",
+        "pid": 28800,
+        "cpu_time": 1.58,
+        "memory_mb": 4.25,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_db0ee1e66e6d408e\\x64\\BridgeCommunication.exe",
+        "company": "HP Inc.",
+        "version": "1.85.4367.0"
+      },
+      {
+        "name": "BridgeCommunication",
+        "pid": 29340,
+        "cpu_time": 1.84,
+        "memory_mb": 4.1,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_db0ee1e66e6d408e\\x64\\BridgeCommunication.exe",
+        "company": "HP Inc.",
+        "version": "1.85.4367.0"
+      },
+      {
+        "name": "browser_assistant",
+        "pid": 10496,
+        "cpu_time": 1.33,
+        "memory_mb": 8.71,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\Programs\\Opera\\assistant\\browser_assistant.exe",
+        "company": "Opera Software",
+        "version": "131.0.5877.116"
+      },
+      {
+        "name": "browser_assistant",
+        "pid": 20880,
+        "cpu_time": 10.45,
+        "memory_mb": 20.64,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\Programs\\Opera\\assistant\\browser_assistant.exe",
+        "company": "Opera Software",
+        "version": "131.0.5877.116"
+      },
+      {
+        "name": "chrome",
+        "pid": 8760,
+        "cpu_time": 0.03,
+        "memory_mb": 30.34,
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "company": "Google LLC",
+        "version": "149.0.7827.155"
+      },
+      {
+        "name": "chrome",
+        "pid": 9352,
+        "cpu_time": 0.36,
+        "memory_mb": 40.62,
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "company": "Google LLC",
+        "version": "149.0.7827.155"
+      },
+      {
+        "name": "chrome",
+        "pid": 23512,
+        "cpu_time": 0.52,
+        "memory_mb": 77.36,
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "company": "Google LLC",
+        "version": "149.0.7827.155"
+      },
+      {
+        "name": "chrome",
+        "pid": 27660,
+        "cpu_time": 7.98,
+        "memory_mb": 89.11,
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "company": "Google LLC",
+        "version": "149.0.7827.155"
+      },
+      {
+        "name": "chrome",
+        "pid": 32696,
+        "cpu_time": 0.03,
+        "memory_mb": 18.8,
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "company": "Google LLC",
+        "version": "149.0.7827.155"
+      },
+      {
+        "name": "chrome",
+        "pid": 37752,
+        "cpu_time": 0.08,
+        "memory_mb": 49.92,
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "company": "Google LLC",
+        "version": "149.0.7827.155"
+      },
+      {
+        "name": "chrome",
+        "pid": 37792,
+        "cpu_time": 0.02,
+        "memory_mb": 9.42,
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "company": "Google LLC",
+        "version": "149.0.7827.155"
+      },
+      {
+        "name": "chrome",
+        "pid": 38776,
+        "cpu_time": 0.95,
+        "memory_mb": 86.04,
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "company": "Google LLC",
+        "version": "149.0.7827.155"
+      },
+      {
+        "name": "chrome",
+        "pid": 42024,
+        "cpu_time": 6.34,
+        "memory_mb": 191.51,
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "company": "Google LLC",
+        "version": "149.0.7827.155"
+      },
+      {
+        "name": "chrome",
+        "pid": 42124,
+        "cpu_time": 4.66,
+        "memory_mb": 132.28,
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "company": "Google LLC",
+        "version": "149.0.7827.155"
+      },
+      {
+        "name": "Code",
+        "pid": 4600,
+        "cpu_time": 11.25,
+        "memory_mb": 381.33,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.125.0"
+      },
+      {
+        "name": "Code",
+        "pid": 7816,
+        "cpu_time": 4.67,
+        "memory_mb": 172.54,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.125.0"
+      },
+      {
+        "name": "Code",
+        "pid": 13704,
+        "cpu_time": 0.59,
+        "memory_mb": 121.02,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.125.0"
+      },
+      {
+        "name": "Code",
+        "pid": 17148,
+        "cpu_time": 3.66,
+        "memory_mb": 174.55,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.125.0"
+      },
+      {
+        "name": "Code",
+        "pid": 33948,
+        "cpu_time": 1.53,
+        "memory_mb": 133.61,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.125.0"
+      },
+      {
+        "name": "Code",
+        "pid": 34424,
+        "cpu_time": 2.08,
+        "memory_mb": 149.2,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.125.0"
+      },
+      {
+        "name": "Code",
+        "pid": 35580,
+        "cpu_time": 0.31,
+        "memory_mb": 50.89,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.125.0"
+      },
+      {
+        "name": "Code",
+        "pid": 42832,
+        "cpu_time": 0.05,
+        "memory_mb": 34.16,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.125.0"
+      },
+      {
+        "name": "conhost",
+        "pid": 2912,
+        "cpu_time": 0.22,
+        "memory_mb": 2.16,
+        "path": "C:\\windows\\system32\\conhost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "conhost",
+        "pid": 12848,
+        "cpu_time": 1.67,
+        "memory_mb": 3.79,
+        "path": "C:\\windows\\system32\\conhost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "conhost",
+        "pid": 16276,
+        "cpu_time": 0.25,
+        "memory_mb": 2.27,
+        "path": "C:\\windows\\system32\\conhost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "conhost",
+        "pid": 37736,
+        "cpu_time": 3.19,
+        "memory_mb": 23.04,
+        "path": "C:\\windows\\system32\\conhost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "CrossDeviceResume",
+        "pid": 12660,
+        "cpu_time": 4.25,
+        "memory_mb": 11.86,
+        "path": "C:\\windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\CrossDeviceResume.exe",
+        "company": "Microsoft Corporation",
+        "version": "2604.28000.0.0"
+      },
+      {
+        "name": "CrossDeviceService",
+        "pid": 11892,
+        "cpu_time": 129.08,
+        "memory_mb": 47.73,
+        "path": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.CrossDevice_1.26032.83.0_x64__cw5n1h2txyewy\\CrossDeviceService.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.26032.83+99c0a1a6392c5ba380fad7bb3a5ec9a7b1e689c3"
+      },
+      {
+        "name": "csrss",
+        "pid": 1292,
+        "cpu_time": 25.44,
+        "memory_mb": 3.75,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "csrss",
+        "pid": 1400,
+        "cpu_time": 416.08,
+        "memory_mb": 4.88,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "ctfmon",
+        "pid": 18196,
+        "cpu_time": 226.86,
+        "memory_mb": 19.79,
+        "path": "C:\\windows\\system32\\ctfmon.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "dasHost",
+        "pid": 6188,
+        "cpu_time": 0.39,
+        "memory_mb": 2.41,
+        "path": "C:\\windows\\system32\\dashost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "DesktopExtension",
+        "pid": 11284,
+        "cpu_time": 118.42,
+        "memory_mb": 14.29,
+        "path": "C:\\Program Files\\WindowsApps\\AD2F1837.myHP_56.52619.6490.0_x64__v10z8vjag6ke6\\win32\\DesktopExtension.exe",
+        "company": "DesktopExtension",
+        "version": "1.0.0+8aa401bab9f85fef10a2eacf2871f5573b3710cd"
+      },
+      {
+        "name": "DiagsCap",
+        "pid": 4008,
+        "cpu_time": 6.31,
+        "memory_mb": 5.55,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_db0ee1e66e6d408e\\x64\\DiagsCap.exe",
+        "company": "HP Inc.",
+        "version": "1.85.4367.0"
+      },
+      {
+        "name": "DingTalk",
+        "pid": 2132,
+        "cpu_time": 6263.83,
+        "memory_mb": 10.19,
+        "path": "C:\\Program Files (x86)\\DingDing\\main\\current\\DingTalk.exe",
+        "company": "Alibaba Group.",
+        "version": "8.2.13.260209001"
+      },
+      {
+        "name": "DingTalk",
+        "pid": 3940,
+        "cpu_time": 68.67,
+        "memory_mb": 26.44,
+        "path": "C:\\Program Files (x86)\\DingDing\\main\\current\\DingTalk.exe",
+        "company": "Alibaba Group.",
+        "version": "8.2.13.260209001"
+      },
+      {
+        "name": "DingTalk",
+        "pid": 13264,
+        "cpu_time": 11164.98,
+        "memory_mb": 131.71,
+        "path": "C:\\Program Files (x86)\\DingDing\\main\\current\\DingTalk.exe",
+        "company": "Alibaba Group.",
+        "version": "8.2.13.260209001"
+      },
+      {
+        "name": "DingTalk",
+        "pid": 23184,
+        "cpu_time": 7.55,
+        "memory_mb": 7.04,
+        "path": "C:\\Program Files (x86)\\DingDing\\main\\current\\DingTalk.exe",
+        "company": "Alibaba Group.",
+        "version": "8.2.13.260209001"
+      },
+      {
+        "name": "DingTalk",
+        "pid": 23276,
+        "cpu_time": 1627.62,
+        "memory_mb": 81.39,
+        "path": "C:\\Program Files (x86)\\DingDing\\main\\current\\DingTalk.exe",
+        "company": "Alibaba Group.",
+        "version": "8.2.13.260209001"
+      },
+      {
+        "name": "DingTalk",
+        "pid": 23504,
+        "cpu_time": 3.39,
+        "memory_mb": 8.08,
+        "path": "C:\\Program Files (x86)\\DingDing\\main\\current\\DingTalk.exe",
+        "company": "Alibaba Group.",
+        "version": "8.2.13.260209001"
+      },
+      {
+        "name": "dllhost",
+        "pid": 5508,
+        "cpu_time": 0.25,
+        "memory_mb": 17.39,
+        "path": "C:\\windows\\system32\\DllHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "dllhost",
+        "pid": 17988,
+        "cpu_time": 0.36,
+        "memory_mb": 23.45,
+        "path": "C:\\windows\\system32\\DllHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "dllhost",
+        "pid": 20840,
+        "cpu_time": 0.66,
+        "memory_mb": 22.93,
+        "path": "C:\\windows\\system32\\DllHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "dllhost",
+        "pid": 27636,
+        "cpu_time": 0.73,
+        "memory_mb": 4.11,
+        "path": "C:\\windows\\system32\\dllhost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "dllhost",
+        "pid": 27644,
+        "cpu_time": 0.56,
+        "memory_mb": 23.65,
+        "path": "C:\\windows\\system32\\DllHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "dllhost",
+        "pid": 30964,
+        "cpu_time": 0.41,
+        "memory_mb": 20.75,
+        "path": "C:\\windows\\system32\\DllHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "dllhost",
+        "pid": 33272,
+        "cpu_time": 0.17,
+        "memory_mb": 5.92,
+        "path": "C:\\windows\\system32\\DllHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "dllhost",
+        "pid": 36012,
+        "cpu_time": 0.14,
+        "memory_mb": 12.4,
+        "path": "C:\\windows\\SysWOW64\\DllHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "dllhost",
+        "pid": 39152,
+        "cpu_time": 0.38,
+        "memory_mb": 22.2,
+        "path": "C:\\windows\\system32\\DllHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "DtsApo4Service",
+        "pid": 5764,
+        "cpu_time": 6.25,
+        "memory_mb": 5.71,
+        "path": "C:\\windows\\System32\\DTS\\PC\\APO4x\\DtsApo4Service.exe",
+        "company": "DTS Inc.",
+        "version": "1.16.3.0"
+      },
+      {
+        "name": "DtsServiceUtility",
+        "pid": 16260,
+        "cpu_time": 4.2,
+        "memory_mb": 8.42,
+        "path": "C:\\windows\\System32\\DTS\\PC\\APO4x\\DtsServiceUtility.exe",
+        "company": "DTS Inc.",
+        "version": "1.16.3.0"
+      },
+      {
+        "name": "dwm",
+        "pid": 936,
+        "cpu_time": 17480.77,
+        "memory_mb": 108.16,
+        "path": "C:\\windows\\system32\\dwm.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "ETDCtrl",
+        "pid": 8980,
+        "cpu_time": 2.7,
+        "memory_mb": 4.88,
+        "path": "C:\\windows\\system32\\ETDCtrl.exe",
+        "company": "ELAN Microelectronics Corp.",
+        "version": "11.102.2.12"
+      },
+      {
+        "name": "ETDService",
+        "pid": 6044,
+        "cpu_time": 10.44,
+        "memory_mb": 2.31,
+        "path": "C:\\windows\\System32\\ETDService.exe",
+        "company": "ELAN Microelectronics Corp.",
+        "version": "11.13.2.5"
+      },
+      {
+        "name": "explorer",
+        "pid": 12272,
+        "cpu_time": 1902.81,
+        "memory_mb": 434.02,
+        "path": "C:\\windows\\Explorer.EXE",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "FileCoAuth",
+        "pid": 37336,
+        "cpu_time": 5.22,
+        "memory_mb": 25.12,
+        "path": "C:\\Program Files\\Microsoft OneDrive\\26.095.0519.0003\\FileCoAuth.exe",
+        "company": "Microsoft Corporation",
+        "version": "26.095.0519.0003"
+      },
+      {
+        "name": "FileSyncHelper",
+        "pid": 35512,
+        "cpu_time": 5.47,
+        "memory_mb": 16.76,
+        "path": "C:\\Program Files\\Microsoft OneDrive\\26.095.0519.0003\\FileSyncHelper.exe",
+        "company": "Microsoft Corporation",
+        "version": "26.095.0519.0003"
+      },
+      {
+        "name": "fontdrvhost",
+        "pid": 1716,
+        "cpu_time": 2.16,
+        "memory_mb": 6.54,
+        "path": "C:\\windows\\system32\\fontdrvhost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "fontdrvhost",
+        "pid": 1724,
+        "cpu_time": 0.12,
+        "memory_mb": 1.7,
+        "path": "C:\\windows\\system32\\fontdrvhost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "HP.ContextAware",
+        "pid": 3760,
+        "cpu_time": 264.69,
+        "memory_mb": 29.94,
+        "path": "C:\\Program Files\\WindowsApps\\AD2F1837.myHP_56.52619.6490.0_x64__v10z8vjag6ke6\\win32\\HP.ContextAware.exe",
+        "company": "HP Inc",
+        "version": "1.0.68"
+      },
+      {
+        "name": "HP.HPX",
+        "pid": 9732,
+        "cpu_time": 162.8,
+        "memory_mb": 42.63,
+        "path": "C:\\Program Files\\WindowsApps\\AD2F1837.myHP_56.52619.6490.0_x64__v10z8vjag6ke6\\HP.HPX.exe",
+        "company": "",
+        "version": "56.52619.6490.0"
+      },
+      {
+        "name": "HP.OMEN.VirtualCamHelper",
+        "pid": 24308,
+        "cpu_time": 177.11,
+        "memory_mb": 8.18,
+        "path": "C:\\Program Files\\WindowsApps\\AD2F1837.OMENCommandCenter_1101.2605.2.0_x64__v10z8vjag6ke6\\OmenCommandCenterApp\\HP.OMEN.VirtualCamHelper.exe",
+        "company": "HP Inc.",
+        "version": "1101.2605.2.0"
+      },
+      {
+        "name": "HPCommRecovery",
+        "pid": 5968,
+        "cpu_time": 9.61,
+        "memory_mb": 10.16,
+        "path": "C:\\Program Files\\HPCommRecovery\\HPCommRecovery.exe",
+        "company": "HP Inc.",
+        "version": "2.0.20.0"
+      },
+      {
+        "name": "hp-one-agent-service",
+        "pid": 4100,
+        "cpu_time": 61.17,
+        "memory_mb": 24.34,
+        "path": "C:\\Program Files\\HP\\HP One Agent\\hp-one-agent-service.exe",
+        "company": "HP Inc; HP Development Company, L.P.",
+        "version": "1.3.0.12147339"
+      },
+      {
+        "name": "HPPrintScanDoctorService",
+        "pid": 5576,
+        "cpu_time": 0.33,
+        "memory_mb": 2.87,
+        "path": "C:\\Program Files\\HPPrintScanDoctor\\HPPrintScanDoctorService.exe",
+        "company": "HP Inc.",
+        "version": "6.1.0.0"
+      },
+      {
+        "name": "HPSystemEventUtilityBackground",
+        "pid": 22224,
+        "cpu_time": 110.48,
+        "memory_mb": 26.44,
+        "path": "C:\\Program Files\\WindowsApps\\AD2F1837.HPSystemEventUtility_3.2.24.0_x64__v10z8vjag6ke6\\SystemEventUtility\\HPSystemEventUtilityBackground.exe",
+        "company": "HP Inc.",
+        "version": "3.2.21.0"
+      },
+      {
+        "name": "HPSystemEventUtilityHost",
+        "pid": 6360,
+        "cpu_time": 0.66,
+        "memory_mb": 40.18,
+        "path": "C:\\Program Files\\WindowsApps\\AD2F1837.HPSystemEventUtility_3.2.24.0_x64__v10z8vjag6ke6\\SystemEventUtility\\HPSystemEventUtilityHost.exe",
+        "company": "HP Inc.",
+        "version": "3.2.17.0"
+      },
+      {
+        "name": "Idle",
+        "pid": 0,
+        "cpu_time": 0,
+        "memory_mb": 0.01,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "IntelAudioService",
+        "pid": 6320,
+        "cpu_time": 5.14,
+        "memory_mb": 5.86,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\intcoed.inf_amd64_a952167d9e98b004\\AS\\IAS\\IntelAudioService.exe",
+        "company": "Intel",
+        "version": "1.0.4125.0"
+      },
+      {
+        "name": "IntelCpHDCPSvc",
+        "pid": 3124,
+        "cpu_time": 0.19,
+        "memory_mb": 2.22,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_a0e4070823166b80\\IntelCpHDCPSvc.exe",
+        "company": "Intel Corporation",
+        "version": "32.0.101.7077"
+      },
+      {
+        "name": "IntelGraphicsSoftware.Service",
+        "pid": 7832,
+        "cpu_time": 20.53,
+        "memory_mb": 13.23,
+        "path": "C:\\Program Files\\WindowsApps\\AppUp.IntelArcSoftware_26.14.2306.0_x64__8j3eq9eme6ctt\\VFS\\ProgramFilesX64\\Intel\\Intel Graphics Software\\IntelGraphicsSoftware.Service.exe",
+        "company": "Intel Corporation",
+        "version": "26.14.2306.2+ab147bc304211eef7ef609b1bd0e59e54b2562ed"
+      },
+      {
+        "name": "ipf_helper",
+        "pid": 12124,
+        "cpu_time": 13.19,
+        "memory_mb": 6.2,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\ipf_cpu.inf_amd64_09022c71eac15532\\ipf_helper.exe",
+        "company": "Intel Corporation",
+        "version": "2.3.20200.4422"
+      },
+      {
+        "name": "ipf_uf",
+        "pid": 6216,
+        "cpu_time": 1.56,
+        "memory_mb": 2.54,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\ipf_cpu.inf_amd64_09022c71eac15532\\ipf_uf.exe",
+        "company": "Intel Corporation",
+        "version": "2.3.20200.4422"
+      },
+      {
+        "name": "jhi_service",
+        "pid": 5188,
+        "cpu_time": 0.27,
+        "memory_mb": 1.74,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\dal.inf_amd64_8a3f88e34f6b8385\\jhi_service.exe",
+        "company": "Intel Corporation",
+        "version": "1.46.2024.0221"
+      },
+      {
+        "name": "LsaIso",
+        "pid": 1496,
+        "cpu_time": 6.44,
+        "memory_mb": 1.88,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "lsass",
+        "pid": 1504,
+        "cpu_time": 1039.97,
+        "memory_mb": 25.74,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "M365Copilot",
+        "pid": 3264,
+        "cpu_time": 46.08,
+        "memory_mb": 45.33,
+        "path": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftOfficeHub_19.2606.39121.0_x64__8wekyb3d8bbwe\\M365Copilot.exe",
+        "company": "Microsoft Corporation",
+        "version": "19.2606.39121.0"
+      },
+      {
+        "name": "mc-fw-host",
+        "pid": 5708,
+        "cpu_time": 1636.27,
+        "memory_mb": 117.79,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "mc-fw-host",
+        "pid": 9428,
+        "cpu_time": 68.55,
+        "memory_mb": 24.52,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "mc-neo-host",
+        "pid": 35564,
+        "cpu_time": 0.69,
+        "memory_mb": 23.8,
+        "path": "C:\\ProgramData\\McAfee\\wps\\content\\neo-core\\26.5.0.127\\mc-neo-host.exe",
+        "company": "McAfee, LLC",
+        "version": "26.5.0.127 4be50b86"
+      },
+      {
+        "name": "mc-vpn",
+        "pid": 39584,
+        "cpu_time": 5.88,
+        "memory_mb": 54.95,
+        "path": "C:\\Program Files\\McAfee\\wps\\1.39.160.1\\vpn\\mc-vpn.exe",
+        "company": "McAfee, LLC",
+        "version": "1.39.10.0+05eabea2ff2d3e881ca27eae7ed8709b5c78924f"
+      },
+      {
+        "name": "Memory Compression",
+        "pid": 3800,
+        "cpu_time": 1221.09,
+        "memory_mb": 1006.93,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "Microsoft.CmdPal.Ext.PowerToys",
+        "pid": 5932,
+        "cpu_time": 56.05,
+        "memory_mb": 8.18,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\PowerToys\\WinUI3Apps\\Microsoft.CmdPal.Ext.PowerToys.exe",
+        "company": "Microsoft Corporation",
+        "version": "0.10.260428001"
+      },
+      {
+        "name": "Microsoft.CmdPal.UI",
+        "pid": 16008,
+        "cpu_time": 86.8,
+        "memory_mb": 62.85,
+        "path": "C:\\Program Files\\WindowsApps\\Microsoft.CommandPalette_0.10.11181.0_x64__8wekyb3d8bbwe\\Microsoft.CmdPal.UI.exe",
+        "company": "Microsoft Corporation",
+        "version": "0.10.260428001"
+      },
+      {
+        "name": "MicrosoftStartFeedProvider",
+        "pid": 17820,
+        "cpu_time": 70.95,
+        "memory_mb": 38.63,
+        "path": "C:\\Program Files\\WindowsApps\\Microsoft.StartExperiencesApp_1.302.5.0_x64__8wekyb3d8bbwe\\MicrosoftStartFeedProvider\\MicrosoftStartFeedProvider.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.302.5.0"
+      },
+      {
+        "name": "MpDefenderCoreService",
+        "pid": 5716,
+        "cpu_time": 35.44,
+        "memory_mb": 15.77,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "mscopilot",
+        "pid": 8444,
+        "cpu_time": 0.08,
+        "memory_mb": 15.44,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\mscopilot.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.66"
+      },
+      {
+        "name": "mscopilot",
+        "pid": 14512,
+        "cpu_time": 0.34,
+        "memory_mb": 44.07,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\mscopilot.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.66"
+      },
+      {
+        "name": "mscopilot",
+        "pid": 23356,
+        "cpu_time": 3.14,
+        "memory_mb": 114.92,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\mscopilot.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.66"
+      },
+      {
+        "name": "mscopilot",
+        "pid": 35340,
+        "cpu_time": 0.16,
+        "memory_mb": 21.2,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\mscopilot.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.66"
+      },
+      {
+        "name": "mscopilot",
+        "pid": 38804,
+        "cpu_time": 0.8,
+        "memory_mb": 39,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\mscopilot.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.66"
+      },
+      {
+        "name": "mscopilot_proxy",
+        "pid": 35092,
+        "cpu_time": 0.23,
+        "memory_mb": 20.5,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\mscopilot_proxy.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.66"
+      },
+      {
+        "name": "msdtc",
+        "pid": 20000,
+        "cpu_time": 0.27,
+        "memory_mb": 2.44,
+        "path": "C:\\windows\\System32\\msdtc.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "msedge",
+        "pid": 8184,
+        "cpu_time": 0.11,
+        "memory_mb": 32.26,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "msedge",
+        "pid": 14348,
+        "cpu_time": 6.94,
+        "memory_mb": 208.93,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "msedge",
+        "pid": 15904,
+        "cpu_time": 3.05,
+        "memory_mb": 129.52,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "msedge",
+        "pid": 23332,
+        "cpu_time": 0.55,
+        "memory_mb": 68.76,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "msedge",
+        "pid": 30716,
+        "cpu_time": 0.12,
+        "memory_mb": 36.29,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "msedge",
+        "pid": 34004,
+        "cpu_time": 0.89,
+        "memory_mb": 50.6,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "msedge",
+        "pid": 36024,
+        "cpu_time": 1.88,
+        "memory_mb": 114.95,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "msedge",
+        "pid": 38808,
+        "cpu_time": 0.12,
+        "memory_mb": 23.74,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "msedge",
+        "pid": 41760,
+        "cpu_time": 0.03,
+        "memory_mb": 16.2,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "msedge",
+        "pid": 42104,
+        "cpu_time": 0.48,
+        "memory_mb": 66.13,
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 1680,
+        "cpu_time": 22.34,
+        "memory_mb": 6.5,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 2680,
+        "cpu_time": 1794.45,
+        "memory_mb": 276.11,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 4056,
+        "cpu_time": 1.36,
+        "memory_mb": 7.29,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 6492,
+        "cpu_time": 123.48,
+        "memory_mb": 77.84,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 10556,
+        "cpu_time": 3.11,
+        "memory_mb": 7.11,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 11632,
+        "cpu_time": 179.94,
+        "memory_mb": 33.97,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 12160,
+        "cpu_time": 1.34,
+        "memory_mb": 7.33,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 12864,
+        "cpu_time": 774.67,
+        "memory_mb": 29.52,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 13168,
+        "cpu_time": 6.45,
+        "memory_mb": 7.15,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 13528,
+        "cpu_time": 2.45,
+        "memory_mb": 13.08,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.69\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 15260,
+        "cpu_time": 123.62,
+        "memory_mb": 89.43,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 15712,
+        "cpu_time": 31.08,
+        "memory_mb": 22.71,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 15828,
+        "cpu_time": 1.8,
+        "memory_mb": 7.51,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 16492,
+        "cpu_time": 5.88,
+        "memory_mb": 4.09,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 16708,
+        "cpu_time": 81.28,
+        "memory_mb": 35.25,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 16716,
+        "cpu_time": 21.2,
+        "memory_mb": 80.09,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 16860,
+        "cpu_time": 3.14,
+        "memory_mb": 12.52,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 17080,
+        "cpu_time": 90.84,
+        "memory_mb": 101.95,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 19784,
+        "cpu_time": 1.69,
+        "memory_mb": 7.25,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 22524,
+        "cpu_time": 104.94,
+        "memory_mb": 15.25,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 25132,
+        "cpu_time": 18.22,
+        "memory_mb": 11.54,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 26344,
+        "cpu_time": 38.42,
+        "memory_mb": 46.15,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.69\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 26780,
+        "cpu_time": 1.81,
+        "memory_mb": 9.84,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.69\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 27184,
+        "cpu_time": 0.97,
+        "memory_mb": 3.83,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 30252,
+        "cpu_time": 9.14,
+        "memory_mb": 14.25,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 31604,
+        "cpu_time": 33.52,
+        "memory_mb": 29.41,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.69\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 32268,
+        "cpu_time": 922.75,
+        "memory_mb": 78.11,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 34488,
+        "cpu_time": 107.73,
+        "memory_mb": 34.23,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.62\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.62"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 38488,
+        "cpu_time": 0.86,
+        "memory_mb": 7.54,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.69\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "msedgewebview2",
+        "pid": 38636,
+        "cpu_time": 1.92,
+        "memory_mb": 13.65,
+        "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.69\\msedgewebview2.exe",
+        "company": "Microsoft Corporation",
+        "version": "149.0.4022.69"
+      },
+      {
+        "name": "MsMpEng",
+        "pid": 5884,
+        "cpu_time": 4357.88,
+        "memory_mb": 241.02,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "ms-teams",
+        "pid": 3444,
+        "cpu_time": 74.91,
+        "memory_mb": 36.84,
+        "path": "C:\\Program Files\\WindowsApps\\MSTeams_26120.3106.4722.3411_x64__8wekyb3d8bbwe\\ms-teams.exe",
+        "company": "Microsoft Corporation",
+        "version": "26120.3106.4722.3411"
+      },
+      {
+        "name": "NetworkCap",
+        "pid": 4020,
+        "cpu_time": 4.83,
+        "memory_mb": 9.18,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_db0ee1e66e6d408e\\x64\\NetworkCap.exe",
+        "company": "HP Inc.",
+        "version": "1.85.4367.0"
+      },
+      {
+        "name": "NgcIso",
+        "pid": 1676,
+        "cpu_time": 11.38,
+        "memory_mb": 2.67,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "NisSrv",
+        "pid": 12092,
+        "cpu_time": 19.47,
+        "memory_mb": 7.12,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "NVDisplay.Container",
+        "pid": 3548,
+        "cpu_time": 425.95,
+        "memory_mb": 24.82,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\nvhm.inf_amd64_2469f7e4a242ca84\\Display.NvContainer\\NVDisplay.Container.exe",
+        "company": "",
+        "version": ""
+      },
+      {
+        "name": "NVDisplay.Container",
+        "pid": 4124,
+        "cpu_time": 91.98,
+        "memory_mb": 29.43,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\nvhm.inf_amd64_2469f7e4a242ca84\\Display.NvContainer\\NVDisplay.Container.exe",
+        "company": "",
+        "version": ""
+      },
+      {
+        "name": "OfficeClickToRun",
+        "pid": 18820,
+        "cpu_time": 107.62,
+        "memory_mb": 29.25,
+        "path": "C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe",
+        "company": "Microsoft Corporation",
+        "version": "16.0.20026.20168"
+      },
+      {
+        "name": "OmenCap",
+        "pid": 3480,
+        "cpu_time": 2.05,
+        "memory_mb": 3.8,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\hpomencustomcapcomp.inf_amd64_38ec91e432e20182\\x64\\OmenCap\\OmenCap.exe",
+        "company": "HP Inc.",
+        "version": "1.0.838.0"
+      },
+      {
+        "name": "OmenCommandCenterBackground",
+        "pid": 18096,
+        "cpu_time": 8319.89,
+        "memory_mb": 542.72,
+        "path": "C:\\Program Files\\WindowsApps\\AD2F1837.OMENCommandCenter_1101.2605.2.0_x64__v10z8vjag6ke6\\OmenCommandCenterApp\\OmenCommandCenterBackground.exe",
+        "company": "HP Inc.",
+        "version": "1101.2605.2.0"
+      },
+      {
+        "name": "OmenInstallMonitor",
+        "pid": 10604,
+        "cpu_time": 23.02,
+        "memory_mb": 9.1,
+        "path": "C:\\Program Files\\HP\\OmenInstallMonitor\\OmenInstallMonitor.exe",
+        "company": "HP Inc.",
+        "version": "1101.2605.2.0"
+      },
+      {
+        "name": "OneDrive",
+        "pid": 25336,
+        "cpu_time": 1602.08,
+        "memory_mb": 212.96,
+        "path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+        "company": "Microsoft Corporation",
+        "version": "26.095.0519.0003"
+      },
+      {
+        "name": "OneDrive.Sync.Service",
+        "pid": 13556,
+        "cpu_time": 197.94,
+        "memory_mb": 69.46,
+        "path": "C:\\Program Files\\Microsoft OneDrive\\26.095.0519.0003\\OneDrive.Sync.Service.exe",
+        "company": "Microsoft Corporation",
+        "version": "26.095.0519.0003"
+      },
+      {
+        "name": "OverlayHelper",
+        "pid": 10564,
+        "cpu_time": 2998.2,
+        "memory_mb": 24.19,
+        "path": "C:\\Program Files\\HP\\Overlay\\OverlayHelper.exe",
+        "company": "HP Inc.",
+        "version": "1101.2605.2.0"
+      },
+      {
+        "name": "pageant",
+        "pid": 16932,
+        "cpu_time": 7.36,
+        "memory_mb": 13.73,
+        "path": "C:\\Program Files\\PuTTY\\pageant.exe",
+        "company": "Simon Tatham",
+        "version": "Release 0.83"
+      },
+      {
+        "name": "PhoneExperienceHost",
+        "pid": 20644,
+        "cpu_time": 36.31,
+        "memory_mb": 67.14,
+        "path": "C:\\Program Files\\WindowsApps\\Microsoft.YourPhone_1.26042.95.0_x64__8wekyb3d8bbwe\\PhoneExperienceHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.26042.95+30122f025a892d47348ff9af31dde3470e580c7a"
+      },
+      {
+        "name": "powershell",
+        "pid": 7704,
+        "cpu_time": 10.52,
+        "memory_mb": 200.37,
+        "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "PowerToys",
+        "pid": 10808,
+        "cpu_time": 69.58,
+        "memory_mb": 47.91,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\PowerToys\\PowerToys.exe",
+        "company": "Microsoft Corporation",
+        "version": "0.99.1.0"
+      },
+      {
+        "name": "PowerToys.AlwaysOnTop",
+        "pid": 14244,
+        "cpu_time": 156.69,
+        "memory_mb": 14.7,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\PowerToys\\PowerToys.AlwaysOnTop.exe",
+        "company": "Microsoft Corporation",
+        "version": "0.99.1.0"
+      },
+      {
+        "name": "PowerToys.Awake",
+        "pid": 14280,
+        "cpu_time": 18.62,
+        "memory_mb": 12.44,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\PowerToys\\PowerToys.Awake.exe",
+        "company": "Microsoft Corporation",
+        "version": "0.99.1.0"
+      },
+      {
+        "name": "PowerToys.FancyZones",
+        "pid": 14196,
+        "cpu_time": 77.53,
+        "memory_mb": 13.41,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\PowerToys\\PowerToys.FancyZones.exe",
+        "company": "Microsoft Corporation",
+        "version": "0.99.1.0"
+      },
+      {
+        "name": "PowerToys.Peek.UI",
+        "pid": 13384,
+        "cpu_time": 3504.3,
+        "memory_mb": 44.25,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\PowerToys\\WinUI3Apps\\PowerToys.Peek.UI.exe",
+        "company": "Microsoft Corporation",
+        "version": "0.99.1.0"
+      },
+      {
+        "name": "PowerToys.QuickAccess",
+        "pid": 13080,
+        "cpu_time": 8.81,
+        "memory_mb": 43.75,
+        "path": "C:\\Users\\refka_0ju0t82\\AppData\\Local\\PowerToys\\WinUI3Apps\\PowerToys.QuickAccess.exe",
+        "company": "Microsoft Corporation",
+        "version": "0.99.1.0"
+      },
+      {
+        "name": "PresentMonService",
+        "pid": 1512,
+        "cpu_time": 93.34,
+        "memory_mb": 2.77,
+        "path": "C:\\Program Files\\WindowsApps\\AppUp.IntelArcSoftware_26.14.2306.0_x64__8j3eq9eme6ctt\\VFS\\ProgramFilesX64\\Intel\\Intel Graphics Software\\PresentMonService.exe",
+        "company": "Intel(R) Corporation",
+        "version": "2.5.0.0"
+      },
+      {
+        "name": "Registry",
+        "pid": 280,
+        "cpu_time": 26.91,
+        "memory_mb": 58.66,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "RtkAudUService64",
+        "pid": 5756,
+        "cpu_time": 31.44,
+        "memory_mb": 10.16,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_f4c5e5443290b318\\RtkAudUService64.exe",
+        "company": "Realtek Semiconductor",
+        "version": "1.1.798.1"
+      },
+      {
+        "name": "RtkAudUService64",
+        "pid": 12732,
+        "cpu_time": 11.48,
+        "memory_mb": 7.46,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_f4c5e5443290b318\\RtkAudUService64.exe",
+        "company": "Realtek Semiconductor",
+        "version": "1.1.798.1"
+      },
+      {
+        "name": "RtkAudUService64",
+        "pid": 21288,
+        "cpu_time": 38.05,
+        "memory_mb": 10.24,
+        "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_f4c5e5443290b318\\RtkAudUService64.exe",
+        "company": "Realtek Semiconductor",
+        "version": "1.1.798.1"
+      },
+      {
+        "name": "RtkBtManServ",
+        "pid": 6312,
+        "cpu_time": 0.59,
+        "memory_mb": 2.49,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\rtkbtfilter.inf_amd64_71c5cae5bd41caa7\\RtkBtManServ.exe",
+        "company": "Realtek Semiconductor Corp.",
+        "version": "2.0.5.0"
+      },
+      {
+        "name": "RuntimeBroker",
+        "pid": 932,
+        "cpu_time": 3.42,
+        "memory_mb": 6.74,
+        "path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "RuntimeBroker",
+        "pid": 7572,
+        "cpu_time": 10.86,
+        "memory_mb": 26.11,
+        "path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "RuntimeBroker",
+        "pid": 13624,
+        "cpu_time": 49,
+        "memory_mb": 44.85,
+        "path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "RuntimeBroker",
+        "pid": 15960,
+        "cpu_time": 2.14,
+        "memory_mb": 29.66,
+        "path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "RuntimeBroker",
+        "pid": 16404,
+        "cpu_time": 1.39,
+        "memory_mb": 3.36,
+        "path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "RuntimeBroker",
+        "pid": 19708,
+        "cpu_time": 1.17,
+        "memory_mb": 3.36,
+        "path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "RuntimeBroker",
+        "pid": 22244,
+        "cpu_time": 1.39,
+        "memory_mb": 2.6,
+        "path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "SDXHelper",
+        "pid": 21012,
+        "cpu_time": 164.47,
+        "memory_mb": 23.07,
+        "path": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\SDXHelper.exe",
+        "company": "Microsoft Corporation",
+        "version": "16.0.20026.20168"
+      },
+      {
+        "name": "SearchHost",
+        "pid": 12600,
+        "cpu_time": 125.41,
+        "memory_mb": 93.29,
+        "path": "C:\\windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "2604.28014.500.0"
+      },
+      {
+        "name": "SearchIndexer",
+        "pid": 13612,
+        "cpu_time": 1171.92,
+        "memory_mb": 46.41,
+        "path": "C:\\windows\\system32\\SearchIndexer.exe",
+        "company": "Microsoft Corporation",
+        "version": "7.0.26100.8457"
+      },
+      {
+        "name": "SearchProtocolHost",
+        "pid": 41340,
+        "cpu_time": 0.27,
+        "memory_mb": 20.1,
+        "path": "C:\\windows\\System32\\SearchProtocolHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "7.0.26100.8521"
+      },
+      {
+        "name": "Secure System",
+        "pid": 236,
+        "cpu_time": 0,
+        "memory_mb": 93.25,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "SecurityHealthService",
+        "pid": 21232,
+        "cpu_time": 22.58,
+        "memory_mb": 14.33,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "SecurityHealthSystray",
+        "pid": 21212,
+        "cpu_time": 0.88,
+        "memory_mb": 4.79,
+        "path": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8115"
+      },
+      {
+        "name": "servicehost",
+        "pid": 39688,
+        "cpu_time": 3.89,
+        "memory_mb": 43.15,
+        "path": "C:\\Program Files\\McAfee\\WebAdvisor\\ServiceHost.exe",
+        "company": "McAfee, LLC",
+        "version": "4,1,1,0"
+      },
+      {
+        "name": "services",
+        "pid": 1476,
+        "cpu_time": 502.19,
+        "memory_mb": 11.14,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "ShellExperienceHost",
+        "pid": 12820,
+        "cpu_time": 294.48,
+        "memory_mb": 118.67,
+        "path": "C:\\windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "ShellHost",
+        "pid": 14152,
+        "cpu_time": 0.33,
+        "memory_mb": 47.73,
+        "path": "C:\\Windows\\System32\\ShellHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "sihost",
+        "pid": 9872,
+        "cpu_time": 191.62,
+        "memory_mb": 33.7,
+        "path": "C:\\windows\\system32\\sihost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8328"
+      },
+      {
+        "name": "smartscreen",
+        "pid": 27252,
+        "cpu_time": 0.03,
+        "memory_mb": 13,
+        "path": "C:\\Windows\\System32\\smartscreen.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "smss",
+        "pid": 916,
+        "cpu_time": 0.2,
+        "memory_mb": 0.75,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "spoolsv",
+        "pid": 2332,
+        "cpu_time": 5.3,
+        "memory_mb": 7.65,
+        "path": "C:\\windows\\System32\\spoolsv.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "StartMenuExperienceHost",
+        "pid": 12596,
+        "cpu_time": 133.67,
+        "memory_mb": 151.76,
+        "path": "C:\\windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8655"
+      },
+      {
+        "name": "svchost",
+        "pid": 1532,
+        "cpu_time": 3.09,
+        "memory_mb": 6.56,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 1608,
+        "cpu_time": 58.03,
+        "memory_mb": 1.76,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 1688,
+        "cpu_time": 28.97,
+        "memory_mb": 12.93,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 1696,
+        "cpu_time": 418.14,
+        "memory_mb": 39.43,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 1864,
+        "cpu_time": 1658.25,
+        "memory_mb": 28.88,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 1884,
+        "cpu_time": 142.58,
+        "memory_mb": 18.8,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 1920,
+        "cpu_time": 58.03,
+        "memory_mb": 5.76,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 2064,
+        "cpu_time": 56.19,
+        "memory_mb": 12.55,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 2228,
+        "cpu_time": 0.08,
+        "memory_mb": 8.67,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 2268,
+        "cpu_time": 1815.88,
+        "memory_mb": 8.14,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 2312,
+        "cpu_time": 38.75,
+        "memory_mb": 7.75,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 2324,
+        "cpu_time": 16.28,
+        "memory_mb": 6.52,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 2396,
+        "cpu_time": 67.2,
+        "memory_mb": 11.74,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 2416,
+        "cpu_time": 193.38,
+        "memory_mb": 6.05,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 2424,
+        "cpu_time": 2.59,
+        "memory_mb": 4.64,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "svchost",
+        "pid": 2508,
+        "cpu_time": 3.09,
+        "memory_mb": 3.59,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 2580,
+        "cpu_time": 1.98,
+        "memory_mb": 6.08,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 2652,
+        "cpu_time": 3.16,
+        "memory_mb": 6.53,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 2668,
+        "cpu_time": 471.16,
+        "memory_mb": 33.01,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 2784,
+        "cpu_time": 233.58,
+        "memory_mb": 5.8,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 2860,
+        "cpu_time": 427.41,
+        "memory_mb": 8.83,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 3016,
+        "cpu_time": 40.3,
+        "memory_mb": 8.59,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 3392,
+        "cpu_time": 1.89,
+        "memory_mb": 3.68,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 3400,
+        "cpu_time": 4.89,
+        "memory_mb": 5.93,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 3508,
+        "cpu_time": 1.45,
+        "memory_mb": 9.89,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 3624,
+        "cpu_time": 61.64,
+        "memory_mb": 21.52,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 3660,
+        "cpu_time": 4.42,
+        "memory_mb": 1.93,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 3668,
+        "cpu_time": 2.64,
+        "memory_mb": 5.95,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 3676,
+        "cpu_time": 1161.44,
+        "memory_mb": 9.52,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 3852,
+        "cpu_time": 3.45,
+        "memory_mb": 6.67,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 3916,
+        "cpu_time": 9.47,
+        "memory_mb": 6.09,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 3924,
+        "cpu_time": 3.42,
+        "memory_mb": 4.96,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 4088,
+        "cpu_time": 89.06,
+        "memory_mb": 50.22,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 4264,
+        "cpu_time": 679.31,
+        "memory_mb": 25.27,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 4328,
+        "cpu_time": 32634.25,
+        "memory_mb": 30.56,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 4516,
+        "cpu_time": 2.06,
+        "memory_mb": 4.47,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 4924,
+        "cpu_time": 13.33,
+        "memory_mb": 7.37,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 5000,
+        "cpu_time": 126.38,
+        "memory_mb": 18.46,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 5064,
+        "cpu_time": 6.11,
+        "memory_mb": 10.03,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 5124,
+        "cpu_time": 91.52,
+        "memory_mb": 13.2,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 5328,
+        "cpu_time": 6.12,
+        "memory_mb": 3.74,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 5432,
+        "cpu_time": 6.38,
+        "memory_mb": 5.07,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 5460,
+        "cpu_time": 3.09,
+        "memory_mb": 3.81,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 5468,
+        "cpu_time": 1.67,
+        "memory_mb": 4.5,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 5476,
+        "cpu_time": 3.03,
+        "memory_mb": 6.73,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 5480,
+        "cpu_time": 566.25,
+        "memory_mb": 57.57,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 5500,
+        "cpu_time": 822.52,
+        "memory_mb": 51.98,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 5644,
+        "cpu_time": 11,
+        "memory_mb": 7.96,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 5700,
+        "cpu_time": 1.12,
+        "memory_mb": 2.18,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 5804,
+        "cpu_time": 0.22,
+        "memory_mb": 2.51,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 5828,
+        "cpu_time": 7.34,
+        "memory_mb": 4.54,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 5956,
+        "cpu_time": 104.02,
+        "memory_mb": 17.7,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 6560,
+        "cpu_time": 0.5,
+        "memory_mb": 1.82,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 6780,
+        "cpu_time": 24.11,
+        "memory_mb": 5.41,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 7048,
+        "cpu_time": 466.45,
+        "memory_mb": 23.65,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 8844,
+        "cpu_time": 0.62,
+        "memory_mb": 2.21,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 9336,
+        "cpu_time": 1.34,
+        "memory_mb": 2.45,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 10144,
+        "cpu_time": 51.41,
+        "memory_mb": 29.96,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 10248,
+        "cpu_time": 47.14,
+        "memory_mb": 31.05,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 10464,
+        "cpu_time": 269.98,
+        "memory_mb": 24.85,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 10836,
+        "cpu_time": 8.28,
+        "memory_mb": 10.4,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 11392,
+        "cpu_time": 2.17,
+        "memory_mb": 7.74,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 11440,
+        "cpu_time": 214.91,
+        "memory_mb": 21.52,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 12048,
+        "cpu_time": 3.14,
+        "memory_mb": 6,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 12252,
+        "cpu_time": 19.52,
+        "memory_mb": 16.79,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 12752,
+        "cpu_time": 33.7,
+        "memory_mb": 27.01,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 13028,
+        "cpu_time": 88.3,
+        "memory_mb": 32.82,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 13332,
+        "cpu_time": 9.92,
+        "memory_mb": 11.24,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 13664,
+        "cpu_time": 15.67,
+        "memory_mb": 23.04,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 13844,
+        "cpu_time": 8.38,
+        "memory_mb": 5.49,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 14076,
+        "cpu_time": 1.44,
+        "memory_mb": 3.29,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 14176,
+        "cpu_time": 204.23,
+        "memory_mb": 39.29,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 14216,
+        "cpu_time": 0.86,
+        "memory_mb": 2.82,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 14436,
+        "cpu_time": 0.42,
+        "memory_mb": 2.01,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 15084,
+        "cpu_time": 18.22,
+        "memory_mb": 15.91,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 15216,
+        "cpu_time": 8.55,
+        "memory_mb": 7.17,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 18984,
+        "cpu_time": 4.94,
+        "memory_mb": 7.46,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "svchost",
+        "pid": 19496,
+        "cpu_time": 766.86,
+        "memory_mb": 28.66,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 19788,
+        "cpu_time": 658.59,
+        "memory_mb": 23.55,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "svchost",
+        "pid": 20224,
+        "cpu_time": 25.34,
+        "memory_mb": 17.09,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 20896,
+        "cpu_time": 6.31,
+        "memory_mb": 8.29,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 21472,
+        "cpu_time": 4.58,
+        "memory_mb": 5.02,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 21676,
+        "cpu_time": 8.45,
+        "memory_mb": 10.29,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 21828,
+        "cpu_time": 1.31,
+        "memory_mb": 5.46,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 24320,
+        "cpu_time": 0.48,
+        "memory_mb": 2.35,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 28528,
+        "cpu_time": 58.45,
+        "memory_mb": 11.02,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 28676,
+        "cpu_time": 7.69,
+        "memory_mb": 11.84,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 28808,
+        "cpu_time": 1.56,
+        "memory_mb": 4.81,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 29648,
+        "cpu_time": 1.17,
+        "memory_mb": 3.46,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 31156,
+        "cpu_time": 0.52,
+        "memory_mb": 2.62,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 31904,
+        "cpu_time": 0.09,
+        "memory_mb": 6.55,
+        "path": "C:\\windows\\System32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "svchost",
+        "pid": 36084,
+        "cpu_time": 8.41,
+        "memory_mb": 21.52,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "svchost",
+        "pid": 38148,
+        "cpu_time": 0.22,
+        "memory_mb": 35.11,
+        "path": "C:\\windows\\system32\\svchost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "SysInfoCap",
+        "pid": 3996,
+        "cpu_time": 144.92,
+        "memory_mb": 31.27,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_db0ee1e66e6d408e\\x64\\SysInfoCap.exe",
+        "company": "HP Inc.",
+        "version": "1.85.4367.0"
+      },
+      {
+        "name": "System",
+        "pid": 4,
+        "cpu_time": 19136.59,
+        "memory_mb": 0.16,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "SystemOptimizer",
+        "pid": 10796,
+        "cpu_time": 63.77,
+        "memory_mb": 9.46,
+        "path": "C:\\Program Files\\HP\\SystemOptimizer\\SystemOptimizer.exe",
+        "company": "HP Inc.",
+        "version": "1101.2605.2.0"
+      },
+      {
+        "name": "SystemSettings",
+        "pid": 20820,
+        "cpu_time": 4.52,
+        "memory_mb": 1.55,
+        "path": "C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "taskhostw",
+        "pid": 7912,
+        "cpu_time": 8.97,
+        "memory_mb": 27.87,
+        "path": "C:\\windows\\system32\\taskhostw.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "taskhostw",
+        "pid": 10448,
+        "cpu_time": 29.41,
+        "memory_mb": 16.8,
+        "path": "C:\\windows\\system32\\taskhostw.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "TextInputHost",
+        "pid": 19324,
+        "cpu_time": 416.02,
+        "memory_mb": 72.97,
+        "path": "C:\\windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "2604.28001.0.0"
+      },
+      {
+        "name": "TouchpointAnalyticsClientService",
+        "pid": 3976,
+        "cpu_time": 183.77,
+        "memory_mb": 81.98,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\hpanalyticscomp.inf_amd64_ef460d1f2a35fc16\\x64\\TouchpointAnalyticsClientService.exe",
+        "company": "HP Inc.",
+        "version": "4.2.2494.0"
+      },
+      {
+        "name": "TouchpointGpuInfo",
+        "pid": 36952,
+        "cpu_time": 1.2,
+        "memory_mb": 73.74,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\hpanalyticscomp.inf_amd64_ef460d1f2a35fc16\\x64\\TouchpointGpuInfo.exe",
+        "company": "HP Inc.",
+        "version": "4.2.2494.0"
+      },
+      {
+        "name": "uihost",
+        "pid": 40560,
+        "cpu_time": 10.2,
+        "memory_mb": 36.51,
+        "path": "C:\\Program Files\\McAfee\\WebAdvisor\\UIHost.exe",
+        "company": "McAfee, LLC",
+        "version": "4,1,1,0"
+      },
+      {
+        "name": "unsecapp",
+        "pid": 4688,
+        "cpu_time": 2.94,
+        "memory_mb": 4.84,
+        "path": "C:\\windows\\system32\\wbem\\unsecapp.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "unsecapp",
+        "pid": 22372,
+        "cpu_time": 3.77,
+        "memory_mb": 7.46,
+        "path": "C:\\windows\\system32\\wbem\\unsecapp.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "updater",
+        "pid": 34836,
+        "cpu_time": 0,
+        "memory_mb": 17.3,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "updater",
+        "pid": 38624,
+        "cpu_time": 0,
+        "memory_mb": 12.23,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "UserOOBEBroker",
+        "pid": 15356,
+        "cpu_time": 0.36,
+        "memory_mb": 3.21,
+        "path": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "vmnat",
+        "pid": 6372,
+        "cpu_time": 16.28,
+        "memory_mb": 2.88,
+        "path": "C:\\windows\\SysWOW64\\vmnat.exe",
+        "company": "VMware, Inc.",
+        "version": "17.6.4 build-24832109"
+      },
+      {
+        "name": "vmnetdhcp",
+        "pid": 6712,
+        "cpu_time": 2.22,
+        "memory_mb": 1.65,
+        "path": "C:\\windows\\SysWOW64\\vmnetdhcp.exe",
+        "company": "VMware, Inc.",
+        "version": "17.6.4 build-24832109"
+      },
+      {
+        "name": "vmware-authd",
+        "pid": 6328,
+        "cpu_time": 0.72,
+        "memory_mb": 2.77,
+        "path": "C:\\Program Files (x86)\\VMware\\VMware Workstation\\vmware-authd.exe",
+        "company": "VMware, Inc.",
+        "version": "17.6.4 build-24832109"
+      },
+      {
+        "name": "vmware-tray",
+        "pid": 4200,
+        "cpu_time": 0.81,
+        "memory_mb": 3.8,
+        "path": "C:\\Program Files (x86)\\VMware\\VMware Workstation\\vmware-tray.exe",
+        "company": "VMware, Inc.",
+        "version": "17.6.4 build-24832109"
+      },
+      {
+        "name": "vmware-usbarbitrator64",
+        "pid": 6468,
+        "cpu_time": 16.42,
+        "memory_mb": 6.31,
+        "path": "C:\\Program Files (x86)\\Common Files\\VMware\\USB\\vmware-usbarbitrator64.exe",
+        "company": "VMware, Inc.",
+        "version": "17.6.3 build-24552497"
+      },
+      {
+        "name": "WidgetBoard",
+        "pid": 13532,
+        "cpu_time": 40.84,
+        "memory_mb": 53.23,
+        "path": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_526.11701.50.0_x64__cw5n1h2txyewy\\WidgetBoard.exe",
+        "company": "Microsoft Corporation",
+        "version": "526.11701.20.0"
+      },
+      {
+        "name": "WidgetService",
+        "pid": 14444,
+        "cpu_time": 23.5,
+        "memory_mb": 14.46,
+        "path": "C:\\Program Files\\WindowsApps\\Microsoft.WidgetsPlatformRuntime_1.6.19.0_x64__8wekyb3d8bbwe\\WidgetService\\WidgetService.exe",
+        "company": "Microsoft Corporation",
+        "version": "0.5"
+      },
+      {
+        "name": "WindowsPackageManagerServer",
+        "pid": 13352,
+        "cpu_time": 17.41,
+        "memory_mb": 24.17,
+        "path": "C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.28.240.0_x64__8wekyb3d8bbwe\\WindowsPackageManagerServer.exe",
+        "company": "Microsoft Corporation",
+        "version": "1.28.240.0"
+      },
+      {
+        "name": "wininit",
+        "pid": 1408,
+        "cpu_time": 1.27,
+        "memory_mb": 3.79,
+        "path": null,
+        "company": null,
+        "version": null
+      },
+      {
+        "name": "winlogon",
+        "pid": 1568,
+        "cpu_time": 4.72,
+        "memory_mb": 7.61,
+        "path": "C:\\windows\\system32\\winlogon.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "WmiApSrv",
+        "pid": 7172,
+        "cpu_time": 77.34,
+        "memory_mb": 14.4,
+        "path": "C:\\windows\\system32\\wbem\\WmiApSrv.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "WmiPrvSE",
+        "pid": 4592,
+        "cpu_time": 54517.3,
+        "memory_mb": 46.47,
+        "path": "C:\\windows\\system32\\wbem\\wmiprvse.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "WmiPrvSE",
+        "pid": 4816,
+        "cpu_time": 394.66,
+        "memory_mb": 32.2,
+        "path": "C:\\windows\\system32\\wbem\\wmiprvse.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8521"
+      },
+      {
+        "name": "WMIRegistrationService",
+        "pid": 6524,
+        "cpu_time": 0.92,
+        "memory_mb": 2.81,
+        "path": "C:\\windows\\System32\\DriverStore\\FileRepository\\mewmiprov.inf_amd64_d7a222f6ce13d429\\WMIRegistrationService.exe",
+        "company": "Intel Corporation",
+        "version": "2522.8.2.0"
+      },
+      {
+        "name": "WUDFHost",
+        "pid": 1780,
+        "cpu_time": 3.73,
+        "memory_mb": 9.32,
+        "path": "C:\\Windows\\System32\\WUDFHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "WUDFHost",
+        "pid": 2000,
+        "cpu_time": 1.41,
+        "memory_mb": 4.21,
+        "path": "C:\\Windows\\System32\\WUDFHost.exe",
+        "company": "Microsoft Corporation",
+        "version": "10.0.26100.8457"
+      },
+      {
+        "name": "XtuService",
+        "pid": 6632,
+        "cpu_time": 4.52,
+        "memory_mb": 8.61,
+        "path": "C:\\windows\\SysWOW64\\XtuService.exe",
+        "company": "Intel(R) Corporation",
+        "version": "7.14.2.69"
+      }
+    ],
+    "total_memory_mb": 11464.82
+  },
+  "services": {
+    "total": 300,
+    "running": 142,
+    "stopped": 158,
+    "list": [
+      {
+        "name": "AarSvc_b1671",
+        "display_name": "AarSvc_b1671",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "224"
+      },
+      {
+        "name": "ADPSvc",
+        "display_name": "Service de plateforme de données agrégées",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "ALG",
+        "display_name": "Service de la passerelle de la couche Application",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "AppIDSvc",
+        "display_name": "Identité de l’application",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "Appinfo",
+        "display_name": "Informations d’application",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "AppReadiness",
+        "display_name": "Préparation des applications",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "AppXSvc",
+        "display_name": "Service de déploiement AppX (AppXSVC)",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "ApxSvc",
+        "display_name": "Service proxy de périphérique audio virtuel Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "aspnet_state",
+        "display_name": "ASP.NET State Service",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "AudioEndpointBuilder",
+        "display_name": "Générateur de points de terminaison du service Audio Windows",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "Audiosrv",
+        "display_name": "Audio Windows",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "autotimesvc",
+        "display_name": "Heure cellulaire",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "AxInstSV",
+        "display_name": "Programme d’installation ActiveX (AxInstSV)",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "BcastDVRUserService_b1671",
+        "display_name": "BcastDVRUserService_b1671",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "240"
+      },
+      {
+        "name": "BDESVC",
+        "display_name": "Service de chiffrement de lecteur BitLocker",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "BFE",
+        "display_name": "Moteur de filtrage de base",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "BITS",
+        "display_name": "Service de transfert intelligent en arrière-plan",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "BluetoothUserService_b1671",
+        "display_name": "BluetoothUserService_b1671",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "224"
+      },
+      {
+        "name": "BrokerInfrastructure",
+        "display_name": "Service d’infrastructure des tâches en arrière-plan",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "BTAGService",
+        "display_name": "Service de passerelle audio Bluetooth",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "BthAvctpSvc",
+        "display_name": "Service AVCTP",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "bthserv",
+        "display_name": "Service de prise en charge Bluetooth",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "camsvc",
+        "display_name": "Service Gestionnaire d’accès aux fonctionnalités",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "CaptureService_b1671",
+        "display_name": "CaptureService_b1671",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "240"
+      },
+      {
+        "name": "cbdhsvc_b1671",
+        "display_name": "cbdhsvc_b1671",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "240"
+      },
+      {
+        "name": "CDPSvc",
+        "display_name": "Service de plateforme des appareils connectés",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "CDPUserSvc_b1671",
+        "display_name": "CDPUserSvc_b1671",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "240"
+      },
+      {
+        "name": "CertPropSvc",
+        "display_name": "Propagation du certificat",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "ClickToRunSvc",
+        "display_name": "Microsoft Office Click-to-Run Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "ClipSVC",
+        "display_name": "Service de licences de client (ClipSVC)",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "CloudBackupRestoreSvc_b1671",
+        "display_name": "CloudBackupRestoreSvc_b1671",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "240"
+      },
+      {
+        "name": "COMSysApp",
+        "display_name": "Application système COM+",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "ConsentUxUserSvc_b1671",
+        "display_name": "ConsentUxUserSvc_b1671",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "240"
+      },
+      {
+        "name": "CoreMessagingRegistrar",
+        "display_name": "CoreMessaging",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "cplspcon",
+        "display_name": "Intel(R) Content Protection HDCP Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "CredentialEnrollmentManagerUserSvc_b1671",
+        "display_name": "CredentialEnrollmentManagerUserSvc_b1671",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "208"
+      },
+      {
+        "name": "CryptSvc",
+        "display_name": "Services de chiffrement",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "DcomLaunch",
+        "display_name": "Lanceur de processus serveur DCOM",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "dcsvc",
+        "display_name": "Service de configuration (DC) déclaré",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "defragsvc",
+        "display_name": "Optimiser les lecteurs",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "DeviceAssociationBrokerSvc_b1671",
+        "display_name": "DeviceAssociationBrokerSvc_b1671",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "224"
+      },
+      {
+        "name": "DeviceAssociationService",
+        "display_name": "Service d’association de périphérique",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "DeviceInstall",
+        "display_name": "Service d’installation de périphérique",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "DevicePickerUserSvc_b1671",
+        "display_name": "DevicePickerUserSvc_b1671",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "224"
+      },
+      {
+        "name": "DevicesFlowUserSvc_b1671",
+        "display_name": "DevicesFlowUserSvc_b1671",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "240"
+      },
+      {
+        "name": "DevQueryBroker",
+        "display_name": "Service Broker de découverte en arrière-plan DevQuery",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "Dhcp",
+        "display_name": "Client DHCP",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "diagsvc",
+        "display_name": "Diagnostic Execution Service",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "DiagTrack",
+        "display_name": "Expériences des utilisateurs connectés et télémétrie",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "DispBrokerDesktopSvc",
+        "display_name": "Service de stratégie d'affichage",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "DisplayEnhancementService",
+        "display_name": "Service d'amélioration de l'affichage",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "DmEnrollmentSvc",
+        "display_name": "Service d'inscription de la gestion des périphériques",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "dmwappushservice",
+        "display_name": "Service de routage de messages Push du protocole WAP (Wireless Application Protocol) de gestion des appareils",
+        "status": "Stopped",
+        "start_type": "Automatic",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "Dnscache",
+        "display_name": "Client DNS",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "DoSvc",
+        "display_name": "Optimisation de livraison",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "dot3svc",
+        "display_name": "Configuration automatique de réseau câblé",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "DPS",
+        "display_name": "Service de stratégie de diagnostic",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "DsmSvc",
+        "display_name": "Gestionnaire d’installation de périphérique",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "DsSvc",
+        "display_name": "Service de partage des données",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "DtsApo4Service",
+        "display_name": "DtsApo4Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "DusmSvc",
+        "display_name": "Consommation des données",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "EapHost",
+        "display_name": "Protocole EAP (Extensible Authentication Protocol)",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "edgeupdate",
+        "display_name": "Microsoft Edge Update Service (edgeupdate)",
+        "status": "Stopped",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "edgeupdatem",
+        "display_name": "Microsoft Edge Update Service (edgeupdatem)",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "EFS",
+        "display_name": "Système de fichiers EFS (Encrypting File System)",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "embeddedmode",
+        "display_name": "Mode incorporé",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "EntAppSvc",
+        "display_name": "Service de gestion des applications d'entreprise",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "ETDService",
+        "display_name": "ELAN Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "EventLog",
+        "display_name": "Journal d’événements Windows",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "EventSystem",
+        "display_name": "Système d’événement COM+",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "fdPHost",
+        "display_name": "Hôte du fournisseur de découverte de fonctions",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "FDResPub",
+        "display_name": "Publication des ressources de découverte de fonctions",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "fhsvc",
+        "display_name": "Service d’historique des fichiers",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "FileSyncHelper",
+        "display_name": "FileSyncHelper",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "FontCache",
+        "display_name": "Service de cache de police Windows",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "FrameServer",
+        "display_name": "Serveur de trame de la Caméra Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "FrameServerMonitor",
+        "display_name": "Moniteur de serveur de trame Caméra Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "FvSvc",
+        "display_name": "NVIDIA FrameView SDK service",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "GameInputSvc",
+        "display_name": "GameInput Service",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "GoogleChromeElevationService",
+        "display_name": "Google Chrome Elevation Service (GoogleChromeElevationService)",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "GoogleUpdaterInternalService150.0.7863.0",
+        "display_name": "Service interne de mise à jour Google (GoogleUpdaterInternalService150.0.7863.0)",
+        "status": "Stopped",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "GoogleUpdaterService150.0.7863.0",
+        "display_name": "Service de mise à jour Google (GoogleUpdaterService150.0.7863.0)",
+        "status": "Stopped",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "gpsvc",
+        "display_name": "Client de stratégie de groupe",
+        "status": "Stopped",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "GraphicsPerfSvc",
+        "display_name": "GraphicsPerfSvc",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "hidserv",
+        "display_name": "Service du périphérique d’interface utilisateur",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "hns",
+        "display_name": "Service de réseau hôte",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "HP Comm Recover",
+        "display_name": "HP Comm Recovery",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "HPAppHelperCap",
+        "display_name": "HP App Helper HSA Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "hpatchmon",
+        "display_name": "Hotpatch Monitoring Service",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "HPDiagsCap",
+        "display_name": "HP Diagnostics HSA Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "HPNetworkCap",
+        "display_name": "HP Network HSA Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "HPOmenCap",
+        "display_name": "HP Omen HSA Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "hp-one-agent-service",
+        "display_name": "HP One Agent Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "HPPrintScanDoctorService",
+        "display_name": "HP Print Scan Doctor Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "HPSysInfoCap",
+        "display_name": "HP System Info HSA Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "HpTouchpointAnalyticsService",
+        "display_name": "HP Insights Analytics",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "HvHost",
+        "display_name": "Service d'hôte HV",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "icssvc",
+        "display_name": "Service Point d'accès sans fil mobile Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "IKEEXT",
+        "display_name": "Modules de génération de clés IKE et AuthIP",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "InstallService",
+        "display_name": "Installation du service Microsoft Store",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "Intel(R) Platform License Manager Service",
+        "display_name": "Intel(R) Platform License Manager Service",
+        "status": "Stopped",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "IntelAudioService",
+        "display_name": "Intel(R) Audio Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "IntelGraphicsSoftwareService",
+        "display_name": "Intel® Graphics Software",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "528"
+      },
+      {
+        "name": "InventorySvc",
+        "display_name": "Service d’Appraisal inventaire et compatibilité",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "ipfsvc",
+        "display_name": "Intel(R) Innovation Platform Framework Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "iphlpsvc",
+        "display_name": "Assistance IP",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "IpxlatCfgSvc",
+        "display_name": "Service de configuration de conversion IP",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "jhi_service",
+        "display_name": "Intel(R) Dynamic Application Loader Host Interface Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "KeyIso",
+        "display_name": "Isolation de clé CNG",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "KtmRm",
+        "display_name": "Service KtmRm pour Distributed Transaction Coordinator",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "LanmanServer",
+        "display_name": "Serveur",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "LanmanWorkstation",
+        "display_name": "Station de travail",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "lfsvc",
+        "display_name": "Service de géolocalisation",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "LicenseManager",
+        "display_name": "Serveur Gestionnaire de licences Windows",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "lltdsvc",
+        "display_name": "Mappage de découverte de topologie de la couche de liaison",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "lmhosts",
+        "display_name": "Assistance NetBIOS sur TCP/IP",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "LocalKdc",
+        "display_name": "Centre local de distribution de clés Kerberos",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "LSM",
+        "display_name": "Gestionnaire de session locale",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "LxpSvc",
+        "display_name": "Service d'expérience linguistique",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "MapsBroker",
+        "display_name": "Gestionnaire des cartes téléchargées",
+        "status": "Stopped",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "McAfee WebAdvisor",
+        "display_name": "McAfee WebAdvisor",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "mc-fw-host",
+        "display_name": "McAfee Framework Host",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "McmSvc",
+        "display_name": "Service de gestion de la connectivité mobile",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "McpManagementService",
+        "display_name": "McpManagementService",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "mc-wps-update",
+        "display_name": "McAfee Software Update",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "MDCoreSvc",
+        "display_name": "Microsoft Defender Service de base",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "MessagingService_b1671",
+        "display_name": "MessagingService_b1671",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "224"
+      },
+      {
+        "name": "MicrosoftCopilotElevationService",
+        "display_name": "Microsoft Copilot Elevation Service (MicrosoftCopilotElevationService)",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "MicrosoftEdgeElevationService",
+        "display_name": "Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "midisrv",
+        "display_name": "Service MIDI de Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "mpssvc",
+        "display_name": "Pare-feu Windows Defender",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "MSDTC",
+        "display_name": "Coordinateur de transactions distribuées",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "MSiSCSI",
+        "display_name": "Service Initiateur iSCSI de Microsoft",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "msiserver",
+        "display_name": "Windows Installer",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "NaturalAuthentication",
+        "display_name": "Authentification naturelle",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "NcaSvc",
+        "display_name": "Assistant Connectivité réseau",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "NcbService",
+        "display_name": "Service Broker pour les connexions réseau",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "NcdAutoSetup",
+        "display_name": "Configuration automatique des périphériques connectés au réseau",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "Netlogon",
+        "display_name": "Netlogon",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "Netman",
+        "display_name": "Connexions réseau",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "netprofm",
+        "display_name": "Service Liste des réseaux",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "NetSetupSvc",
+        "display_name": "Service Configuration du réseau",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "NetTcpPortSharing",
+        "display_name": "Service de partage de ports Net.Tcp",
+        "status": "Stopped",
+        "start_type": "Disabled",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "NgcCtnrSvc",
+        "display_name": "Conteneur Microsoft Passport",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "NgcSvc",
+        "display_name": "Microsoft Passport",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "NlaSvc",
+        "display_name": "Connaissance des emplacements réseau",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "NPSMSvc_b1671",
+        "display_name": "NPSMSvc_b1671",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "240"
+      },
+      {
+        "name": "nsi",
+        "display_name": "Service Interface du magasin réseau",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "nvagent",
+        "display_name": "Service de virtualisation de réseau",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "NvContainerLocalSystem",
+        "display_name": "NVIDIA LocalSystem Container",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "NVDisplay.ContainerLocalSystem",
+        "display_name": "NVIDIA Display Container LS",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "OneDrive Updater Service",
+        "display_name": "OneDrive Updater Service",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "OneSyncSvc_b1671",
+        "display_name": "OneSyncSvc_b1671",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "224"
+      },
+      {
+        "name": "P9RdrService_b1671",
+        "display_name": "P9RdrService_b1671",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "224"
+      },
+      {
+        "name": "PcaSvc",
+        "display_name": "Service de l’Assistant Compatibilité des programmes",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "PenService_b1671",
+        "display_name": "PenService_b1671",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "224"
+      },
+      {
+        "name": "perceptionsimulation",
+        "display_name": "Service de simulation de perception Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "PerfHost",
+        "display_name": "Hôte de DLL de compteur de performance",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "PhoneSvc",
+        "display_name": "Service téléphonique",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "PimIndexMaintenanceSvc_b1671",
+        "display_name": "PimIndexMaintenanceSvc_b1671",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "224"
+      },
+      {
+        "name": "pla",
+        "display_name": "Journaux & alertes de performance",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "PlugPlay",
+        "display_name": "Plug-and-Play",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "PolicyAgent",
+        "display_name": "Agent de stratégie IPsec",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "Power",
+        "display_name": "Alimentation",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "PrintDeviceConfigurationService",
+        "display_name": "Service de configuration du périphérique d’impression",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "PrintNotify",
+        "display_name": "Extensions et notifications d’imprimante",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess, InteractiveProcess"
+      },
+      {
+        "name": "PrintScanBrokerService",
+        "display_name": "PrintScanBrokerService",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "PrintWorkflowUserSvc_b1671",
+        "display_name": "PrintWorkflowUserSvc_b1671",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "224"
+      },
+      {
+        "name": "ProfSvc",
+        "display_name": "Service de profil utilisateur",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "PushToInstall",
+        "display_name": "Service PushToInstall de Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "QWAVE",
+        "display_name": "Expérience audio-vidéo haute qualité Windows",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "RasAuto",
+        "display_name": "Gestionnaire des connexions automatiques d’accès à distance",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "RasMan",
+        "display_name": "Gestionnaire des connexions d’accès à distance",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "refsdedupsvc",
+        "display_name": "Service de déduplication ReFS",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "RemoteAccess",
+        "display_name": "Routage et accès distant",
+        "status": "Stopped",
+        "start_type": "Disabled",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "RemoteRegistry",
+        "display_name": "Registre à distance",
+        "status": "Stopped",
+        "start_type": "Disabled",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "RetailDemo",
+        "display_name": "Service de démo du magasin",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "RmSvc",
+        "display_name": "Service de gestion radio",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "RpcEptMapper",
+        "display_name": "Mappeur de point de terminaison RPC",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "RpcLocator",
+        "display_name": "Localisateur d’appels de procédure distante (RPC)",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "RpcSs",
+        "display_name": "Appel de procédure distante (RPC)",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "RtkAudioUniversalService",
+        "display_name": "Realtek Audio Universal Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "RtkBtManServ",
+        "display_name": "Realtek Bluetooth Device Manager Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "SamSs",
+        "display_name": "Gestionnaire de comptes de sécurité",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "SCardSvr",
+        "display_name": "Carte à puce",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "ScDeviceEnum",
+        "display_name": "Service d’énumération de périphériques de carte à puce",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "Schedule",
+        "display_name": "Planificateur de tâches",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "SCPolicySvc",
+        "display_name": "Stratégie de retrait de la carte à puce",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "SDRSVC",
+        "display_name": "Sauvegarde Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "seclogon",
+        "display_name": "Ouverture de session secondaire",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "SecurityHealthService",
+        "display_name": "Service Sécurité Windows",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "SEMgrSvc",
+        "display_name": "Gestionnaires des paiements et des éléments sécurisés NFC",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "SENS",
+        "display_name": "Service de notification d’événements système",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "SensorDataService",
+        "display_name": "Service Données de capteur",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "SensorService",
+        "display_name": "Service de capteur",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "SensrSvc",
+        "display_name": "Service de surveillance des capteurs",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "SessionEnv",
+        "display_name": "Configuration des services Bureau à distance",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "SharedAccess",
+        "display_name": "Partage de connexion Internet (ICS)",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "ShellHWDetection",
+        "display_name": "Détection matériel noyau",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "shpamsvc",
+        "display_name": "Shared PC Account Manager",
+        "status": "Stopped",
+        "start_type": "Disabled",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "smphost",
+        "display_name": "SMP de l’Espace de stockages Microsoft",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "SmsRouter",
+        "display_name": "Service Routeur SMS Microsoft Windows.",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "SNMPTrap",
+        "display_name": "Interruption SNMP",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "Spooler",
+        "display_name": "Spouleur d’impression",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, InteractiveProcess"
+      },
+      {
+        "name": "sppsvc",
+        "display_name": "Protection logicielle",
+        "status": "Stopped",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "SSDPSRV",
+        "display_name": "Découverte SSDP",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "ssh-agent",
+        "display_name": "OpenSSH Authentication Agent",
+        "status": "Stopped",
+        "start_type": "Disabled",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "SstpSvc",
+        "display_name": "Service SSTP (Secure Socket Tunneling Protocol)",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "StateRepository",
+        "display_name": "Service State Repository (StateRepository)",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "StiSvc",
+        "display_name": "Acquisition d’image Windows (WIA)",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "StorSvc",
+        "display_name": "Service de stockage",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "svsvc",
+        "display_name": "Vérificateur de points",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "swprv",
+        "display_name": "Fournisseur de cliché instantané de logiciel Microsoft",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "SysMain",
+        "display_name": "SysMain",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "SystemEventsBroker",
+        "display_name": "Service Broker des événements système",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "TapiSrv",
+        "display_name": "Téléphonie",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "TermService",
+        "display_name": "Services Bureau à distance",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "TextInputManagementService",
+        "display_name": "Service de gestion des entrées de texte",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "Themes",
+        "display_name": "Thèmes",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "TieringEngineService",
+        "display_name": "Gestion des niveaux de stockage",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "TimeBrokerSvc",
+        "display_name": "Service Broker pour les événements horaires",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "TokenBroker",
+        "display_name": "Gestionnaire de comptes web",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "TrkWks",
+        "display_name": "Client de suivi de lien distribué",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "TroubleshootingSvc",
+        "display_name": "Service de résolution des problèmes recommandé",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "TrustedInstaller",
+        "display_name": "Programme d’installation pour les modules Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "tzautoupdate",
+        "display_name": "Programme de mise à jour automatique du fuseau horaire",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "UdkUserSvc_b1671",
+        "display_name": "UdkUserSvc_b1671",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "240"
+      },
+      {
+        "name": "UmRdpService",
+        "display_name": "Redirecteur de port du mode utilisateur des services Bureau à distance",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "UnistoreSvc_b1671",
+        "display_name": "UnistoreSvc_b1671",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "224"
+      },
+      {
+        "name": "upnphost",
+        "display_name": "Hôte de périphérique UPnP",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "UserDataSvc_b1671",
+        "display_name": "UserDataSvc_b1671",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "224"
+      },
+      {
+        "name": "UserManager",
+        "display_name": "Gestionnaire des utilisateurs",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "UsoSvc",
+        "display_name": "Service Orchestrator pour les mises à jour",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "VaultSvc",
+        "display_name": "Gestionnaire d’informations d’identification",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "VBoxSDS",
+        "display_name": "VirtualBox system service",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "vds",
+        "display_name": "Disque virtuel",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "VMAuthdService",
+        "display_name": "VMware Authorization Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "vmcompute",
+        "display_name": "Service de calcul hôte Hyper-V",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "vmicguestinterface",
+        "display_name": "Interface de services d’invité Hyper-V",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "vmicheartbeat",
+        "display_name": "Service Pulsation Microsoft Hyper-V",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "vmickvpexchange",
+        "display_name": "Service Échange de données Microsoft Hyper-V",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "vmicrdv",
+        "display_name": "Service de virtualisation Bureau à distance Hyper-V",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "vmicshutdown",
+        "display_name": "Service Arrêt de l’invité Microsoft Hyper-V",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "vmictimesync",
+        "display_name": "Service Synchronisation date/heure Microsoft Hyper-V",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "vmicvmsession",
+        "display_name": "Service Hyper-V PowerShell Direct",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "vmicvss",
+        "display_name": "Requête du service VSS Hyper-V",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "VMnetDHCP",
+        "display_name": "VMware DHCP Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "VMUSBArbService",
+        "display_name": "VMware USB Arbitration Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "VMware NAT Service",
+        "display_name": "VMware NAT Service",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "VmwareAutostartService",
+        "display_name": "VMware Autostart Service",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "VSS",
+        "display_name": "Cliché instantané des volumes",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "W32Time",
+        "display_name": "Temps Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "WaaSMedicSvc",
+        "display_name": "WaaSMedicSvc",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "WalletService",
+        "display_name": "WalletService",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "WarpJITSvc",
+        "display_name": "Warp JIT Service",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "wbengine",
+        "display_name": "Service de moteur de sauvegarde en mode bloc",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "WbioSrvc",
+        "display_name": "Service de biométrie Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "Wcmsvc",
+        "display_name": "Gestionnaire des connexions Windows",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "wcncsvc",
+        "display_name": "Windows Connect Now - Registre de configuration",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "WdiServiceHost",
+        "display_name": "Service hôte WDIServiceHost",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "WdiSystemHost",
+        "display_name": "Hôte système de diagnostics",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "WdNisSvc",
+        "display_name": "Service d’inspection réseau de l’antivirus Microsoft Defender",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "WebClient",
+        "display_name": "WebClient",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "webthreatdefsvc",
+        "display_name": "Service Web Threat Defense",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "webthreatdefusersvc_b1671",
+        "display_name": "webthreatdefusersvc_b1671",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "240"
+      },
+      {
+        "name": "Wecsvc",
+        "display_name": "Collecteur d’événements de Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "WEPHOSTSVC",
+        "display_name": "Service hôte du fournisseur de chiffrement Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "wercplsupport",
+        "display_name": "Prise en charge du Panneau de configuration Rapports de problèmes",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "WerSvc",
+        "display_name": "Service de rapport d’erreurs Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "WFDSConMgrSvc",
+        "display_name": "Service Wi-Fi Direct Service de gestionnaire de connexions",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "whesvc",
+        "display_name": "Intégrité de Windows et expériences optimisées",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "WiaRpc",
+        "display_name": "Événements d’acquisition d’images fixes",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "WinDefend",
+        "display_name": "Service antivirus Microsoft Defender",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "WinHttpAutoProxySvc",
+        "display_name": "Service de découverte automatique de Proxy Web pour les services HTTP Windows",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "Winmgmt",
+        "display_name": "Infrastructure de gestion Windows",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "WinRM",
+        "display_name": "Gestion à distance de Windows (Gestion WSM)",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "wisvc",
+        "display_name": "Service Windows Insider",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "WlanSvc",
+        "display_name": "Service de configuration automatique WLAN",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "wlidsvc",
+        "display_name": "Assistant Connexion avec un compte Microsoft",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "wlpasvc",
+        "display_name": "Service de l’Assistant de profil local",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "WManSvc",
+        "display_name": "Service de gestion de Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "wmiApSrv",
+        "display_name": "Carte de performance WMI",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "WMIRegistrationService",
+        "display_name": "Intel(R) Management Engine WMI Provider Registration",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "WMPNetworkSvc",
+        "display_name": "Service de partage réseau du Lecteur multimédia Windows",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "workfolderssvc",
+        "display_name": "Dossiers de travail",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "WpcMonSvc",
+        "display_name": "Contrôle parental",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "WPDBusEnum",
+        "display_name": "Service Énumérateur d’appareil mobile",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "WpnService",
+        "display_name": "Service du système de notifications Push Windows",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "WpnUserService_b1671",
+        "display_name": "WpnUserService_b1671",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "240"
+      },
+      {
+        "name": "WSAIFabricSvc",
+        "display_name": "WSAIFabricSvc",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "wscsvc",
+        "display_name": "Centre de sécurité",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "WSearch",
+        "display_name": "Windows Search",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      },
+      {
+        "name": "wuauserv",
+        "display_name": "Windows Update",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "wuqisvc",
+        "display_name": "Informations sur l’utilisation et la qualité de Microsoft",
+        "status": "Running",
+        "start_type": "Manual",
+        "service_type": "Win32OwnProcess, Win32ShareProcess"
+      },
+      {
+        "name": "WwanSvc",
+        "display_name": "Service de configuration automatique WWAN",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "XblAuthManager",
+        "display_name": "Gestionnaire d'authentification Xbox Live",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "XblGameSave",
+        "display_name": "Jeu sauvegardé sur Xbox Live",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "XboxGipSvc",
+        "display_name": "Xbox Accessory Management Service",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "XboxNetApiSvc",
+        "display_name": "Service de mise en réseau Xbox Live",
+        "status": "Stopped",
+        "start_type": "Manual",
+        "service_type": "Win32ShareProcess"
+      },
+      {
+        "name": "XTU3SERVICE",
+        "display_name": "XTUOCDriverService",
+        "status": "Running",
+        "start_type": "Automatic",
+        "service_type": "Win32OwnProcess"
+      }
+    ]
+  },
+  "ports": {
+    "total": 80,
+    "listening": 25,
+    "established": 55,
+    "list": [
+      {
+        "local_address": "::",
+        "local_port": 49670,
+        "remote_address": "::",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 1476,
+        "process_name": "services"
+      },
+      {
+        "local_address": "::1",
+        "local_port": 49669,
+        "remote_address": "::",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 5188,
+        "process_name": "jhi_service"
+      },
+      {
+        "local_address": "::",
+        "local_port": 49668,
+        "remote_address": "::",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 2332,
+        "process_name": "spoolsv"
+      },
+      {
+        "local_address": "::",
+        "local_port": 49667,
+        "remote_address": "::",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 3624,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "::",
+        "local_port": 49666,
+        "remote_address": "::",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 2396,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "::",
+        "local_port": 49665,
+        "remote_address": "::",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 1408,
+        "process_name": "wininit"
+      },
+      {
+        "local_address": "::",
+        "local_port": 49664,
+        "remote_address": "::",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 1504,
+        "process_name": "lsass"
+      },
+      {
+        "local_address": "::1",
+        "local_port": 42050,
+        "remote_address": "::",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 13556,
+        "process_name": "OneDrive.Sync.Service"
+      },
+      {
+        "local_address": "::",
+        "local_port": 445,
+        "remote_address": "::",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 4,
+        "process_name": "System"
+      },
+      {
+        "local_address": "::",
+        "local_port": 135,
+        "remote_address": "::",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 1864,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 65433,
+        "remote_address": "13.107.137.11",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 25336,
+        "process_name": "OneDrive"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 65423,
+        "remote_address": "142.251.27.138",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 9352,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 64561,
+        "remote_address": "8.8.8.8",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 34488,
+        "process_name": "msedgewebview2"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 64447,
+        "remote_address": "4.208.35.46",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 22524,
+        "process_name": "msedgewebview2"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 64183,
+        "remote_address": "192.178.194.193",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 9352,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 63957,
+        "remote_address": "47.246.146.121",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 23276,
+        "process_name": "DingTalk"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 63956,
+        "remote_address": "98.66.133.186",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 25336,
+        "process_name": "OneDrive"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 63673,
+        "remote_address": "8.8.8.8",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 38804,
+        "process_name": "mscopilot"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 63670,
+        "remote_address": "8.8.8.8",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 31604,
+        "process_name": "msedgewebview2"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 62800,
+        "remote_address": "8.8.4.4",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 16708,
+        "process_name": "msedgewebview2"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 62518,
+        "remote_address": "150.171.73.16",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 35580,
+        "process_name": "Code"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 61587,
+        "remote_address": "216.239.38.223",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 9352,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 61139,
+        "remote_address": "52.168.117.174",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 37336,
+        "process_name": "FileCoAuth"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 61131,
+        "remote_address": "142.251.209.46",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 9352,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 61130,
+        "remote_address": "8.8.8.8",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 16708,
+        "process_name": "msedgewebview2"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 60482,
+        "remote_address": "8.8.4.4",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 38804,
+        "process_name": "mscopilot"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 60394,
+        "remote_address": "1.1.1.1",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 9352,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 59805,
+        "remote_address": "52.98.242.226",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 34004,
+        "process_name": "msedge"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 59629,
+        "remote_address": "150.171.73.16",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 35580,
+        "process_name": "Code"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 59436,
+        "remote_address": "8.8.4.4",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 3940,
+        "process_name": "DingTalk"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 59435,
+        "remote_address": "8.8.8.8",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 3940,
+        "process_name": "DingTalk"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 59434,
+        "remote_address": "8.8.4.4",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 3940,
+        "process_name": "DingTalk"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 59433,
+        "remote_address": "8.8.8.8",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 31604,
+        "process_name": "msedgewebview2"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 59334,
+        "remote_address": "74.125.133.188",
+        "remote_port": 5228,
+        "state": "Established",
+        "pid": 9352,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 59328,
+        "remote_address": "8.8.4.4",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 9352,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 58608,
+        "remote_address": "127.0.0.1",
+        "remote_port": 58607,
+        "state": "Established",
+        "pid": 5708,
+        "process_name": "mc-fw-host"
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 58607,
+        "remote_address": "127.0.0.1",
+        "remote_port": 58608,
+        "state": "Established",
+        "pid": 5708,
+        "process_name": "mc-fw-host"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 58338,
+        "remote_address": "192.178.194.193",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 9352,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 57473,
+        "remote_address": "8.8.8.8",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 34004,
+        "process_name": "msedge"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 57448,
+        "remote_address": "98.66.133.185",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 5956,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 57447,
+        "remote_address": "98.66.133.185",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 5956,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 57408,
+        "remote_address": "74.242.255.116",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 34004,
+        "process_name": "msedge"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 57290,
+        "remote_address": "13.107.5.93",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 35580,
+        "process_name": "Code"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 57026,
+        "remote_address": "150.171.110.113",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 35580,
+        "process_name": "Code"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 56622,
+        "remote_address": "8.8.4.4",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 9352,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 55530,
+        "remote_address": "8.8.8.8",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 16708,
+        "process_name": "msedgewebview2"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 54996,
+        "remote_address": "8.8.4.4",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 38804,
+        "process_name": "mscopilot"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 54759,
+        "remote_address": "8.8.8.8",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 34004,
+        "process_name": "msedge"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 53459,
+        "remote_address": "150.171.110.113",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 35580,
+        "process_name": "Code"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 53060,
+        "remote_address": "8.8.8.8",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 34488,
+        "process_name": "msedgewebview2"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 52208,
+        "remote_address": "150.171.73.16",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 35580,
+        "process_name": "Code"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 51810,
+        "remote_address": "150.171.73.16",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 35580,
+        "process_name": "Code"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 51560,
+        "remote_address": "150.171.73.16",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 35580,
+        "process_name": "Code"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 51515,
+        "remote_address": "8.8.8.8",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 31604,
+        "process_name": "msedgewebview2"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 51495,
+        "remote_address": "8.8.8.8",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 22524,
+        "process_name": "msedgewebview2"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 51412,
+        "remote_address": "8.8.4.4",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 34004,
+        "process_name": "msedge"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 51251,
+        "remote_address": "52.98.243.146",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 34004,
+        "process_name": "msedge"
+      },
+      {
+        "local_address": "127.0.0.1",
+        "local_port": 50984,
+        "remote_address": "0.0.0.0",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 33948,
+        "process_name": "Code"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 50983,
+        "remote_address": "2.20.242.17",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 34004,
+        "process_name": "msedge"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 50418,
+        "remote_address": "13.69.239.68",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 25336,
+        "process_name": "OneDrive"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 50416,
+        "remote_address": "8.8.4.4",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 9352,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 50318,
+        "remote_address": "20.184.175.4",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 35580,
+        "process_name": "Code"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 50063,
+        "remote_address": "150.171.73.16",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 35580,
+        "process_name": "Code"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 50062,
+        "remote_address": "13.107.226.43",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 35580,
+        "process_name": "Code"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 50060,
+        "remote_address": "142.251.27.95",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 9352,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49670,
+        "remote_address": "0.0.0.0",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 1476,
+        "process_name": "services"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49668,
+        "remote_address": "0.0.0.0",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 2332,
+        "process_name": "spoolsv"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49667,
+        "remote_address": "0.0.0.0",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 3624,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49666,
+        "remote_address": "0.0.0.0",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 2396,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49665,
+        "remote_address": "0.0.0.0",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 1408,
+        "process_name": "wininit"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 49664,
+        "remote_address": "0.0.0.0",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 1504,
+        "process_name": "lsass"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 49182,
+        "remote_address": "142.251.27.100",
+        "remote_port": 443,
+        "state": "Established",
+        "pid": 9352,
+        "process_name": "chrome"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 5040,
+        "remote_address": "0.0.0.0",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 1688,
+        "process_name": "svchost"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 912,
+        "remote_address": "0.0.0.0",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 6328,
+        "process_name": "vmware-authd"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 902,
+        "remote_address": "0.0.0.0",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 6328,
+        "process_name": "vmware-authd"
+      },
+      {
+        "local_address": "192.168.126.1",
+        "local_port": 139,
+        "remote_address": "0.0.0.0",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 4,
+        "process_name": "System"
+      },
+      {
+        "local_address": "192.168.58.1",
+        "local_port": 139,
+        "remote_address": "0.0.0.0",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 4,
+        "process_name": "System"
+      },
+      {
+        "local_address": "192.168.56.1",
+        "local_port": 139,
+        "remote_address": "0.0.0.0",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 4,
+        "process_name": "System"
+      },
+      {
+        "local_address": "10.99.1.67",
+        "local_port": 139,
+        "remote_address": "0.0.0.0",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 4,
+        "process_name": "System"
+      },
+      {
+        "local_address": "0.0.0.0",
+        "local_port": 135,
+        "remote_address": "0.0.0.0",
+        "remote_port": 0,
+        "state": "Listen",
+        "pid": 1864,
+        "process_name": "svchost"
+      }
+    ]
+  },
+  "defender": {
+    "antivirus_enabled": true,
+    "realtime_protection": true,
+    "behavior_monitor": true,
+    "antivirus_signature_age": 0,
+    "last_scan": "Jamais",
+    "quick_scan": "2026-06-18 07:42:03",
+    "antivirus_signature_version": "1.453.161.0",
+    "spyware_signature_version": "1.453.161.0",
+    "ioav_protection": true,
+    "nis_enabled": true
+  },
+  "firewall": {
+    "profiles_total": 0,
+    "profiles_enabled": 0,
+    "profiles_disabled": 0,
+    "profiles": [],
+    "status": "Non disponible"
+  },
+  "events": {
+    "total": 180,
+    "security": 100,
+    "system": 50,
+    "application": 30,
+    "date_range": "7 derniers jours",
+    "event_id_counts": {
+      "4624": 98,
+      "7045": 50,
+      "1001": 30,
+      "4625": 2
+    },
+    "brute_force_targets": [],
+    "failed_logins": 2
+  },
+  "risk_score": {
+    "total": 33,
+    "level": "Modéré",
+    "level_class": "modere",
+    "breakdown": {
+      "critiques": 0,
+      "hautes": 2,
+      "moyennes": 13,
+      "basses": 3
+    }
+  },
+  "alerts": {
+    "critical": [],
+    "high": [
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "high",
+        "category": "Événements",
+        "message": "Événement 4625: Échec de connexion détecté (2 occurrence(s))",
+        "details": "Échec d’ouverture de session d’un compte.\r\n\r\nSujet :\r\n\tID de sécurité :\t\tS-1-5-18\r\n\tNom du compte :\t\tREFKA$\r\n\tDomaine du",
+        "remediation": "Investiguer la source — activer Account Lockout Policy via secpol.msc",
+        "mitre_tactic": "TA0006",
+        "mitre_tactic_name": "Accès aux identifiants"
+      },
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "high",
+        "category": "Événements",
+        "message": "Événement 7045: Nouveau service installé (50 occurrence(s))",
+        "details": "Un service a été installé sur le système.\r\n\r\nNom du service :  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)\r\nNo",
+        "remediation": "Vérifier le service: Get-Service | Where StartType -eq Automatic | sort Name",
+        "mitre_tactic": "TA0003",
+        "mitre_tactic_name": "Persistance"
+      }
+    ],
+    "medium": [
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "medium",
+        "category": "Utilisateurs",
+        "message": "Compte jamais connecté: DefaultAccount",
+        "details": "Compte potentiellement obsolète ou backdoor",
+        "remediation": "Désactiver le compte via: net user \"DefaultAccount\" /active:no",
+        "mitre_tactic": "TA0003",
+        "mitre_tactic_name": "Persistance"
+      },
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "medium",
+        "category": "Utilisateurs",
+        "message": "Compte jamais connecté: Invité",
+        "details": "Compte potentiellement obsolète ou backdoor",
+        "remediation": "Désactiver le compte via: net user \"Invité\" /active:no",
+        "mitre_tactic": "TA0003",
+        "mitre_tactic_name": "Persistance"
+      },
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "medium",
+        "category": "Utilisateurs",
+        "message": "Compte jamais connecté: refka",
+        "details": "Compte potentiellement obsolète ou backdoor",
+        "remediation": "Désactiver le compte via: net user \"refka\" /active:no",
+        "mitre_tactic": "TA0003",
+        "mitre_tactic_name": "Persistance"
+      },
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "medium",
+        "category": "Utilisateurs",
+        "message": "Compte jamais connecté: refka_0ju0t82",
+        "details": "Compte potentiellement obsolète ou backdoor",
+        "remediation": "Désactiver le compte via: net user \"refka_0ju0t82\" /active:no",
+        "mitre_tactic": "TA0003",
+        "mitre_tactic_name": "Persistance"
+      },
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "medium",
+        "category": "Utilisateurs",
+        "message": "Compte jamais connecté: WDAGUtilityAccount",
+        "details": "Compte potentiellement obsolète ou backdoor",
+        "remediation": "Désactiver le compte via: net user \"WDAGUtilityAccount\" /active:no",
+        "mitre_tactic": "TA0003",
+        "mitre_tactic_name": "Persistance"
+      },
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "medium",
+        "category": "Services",
+        "message": "Service critique arrêté: Windows Update",
+        "details": "Service: wuauserv — Windows Update",
+        "remediation": "Démarrer le service: Start-Service -Name \"wuauserv\" ou via services.msc",
+        "mitre_tactic": "TA0005",
+        "mitre_tactic_name": "Évasion de défense"
+      },
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "medium",
+        "category": "Réseau",
+        "message": "Port sensible ouvert: 445 (SMB)",
+        "details": "Processus: System — SMB (risque EternalBlue/ransomware)",
+        "remediation": "Bloquer le port 445 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 445 -Protocol TCP",
+        "mitre_tactic": "TA0001",
+        "mitre_tactic_name": "Accès initial"
+      },
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "medium",
+        "category": "Réseau",
+        "message": "Port sensible ouvert: 135 (RPC DCOM)",
+        "details": "Processus: svchost — RPC DCOM (surface d'attaque importante)",
+        "remediation": "Bloquer le port 135 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 135 -Protocol TCP",
+        "mitre_tactic": "TA0001",
+        "mitre_tactic_name": "Accès initial"
+      },
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "medium",
+        "category": "Réseau",
+        "message": "Port sensible ouvert: 139 (NetBIOS)",
+        "details": "Processus: System — NetBIOS (protocole obsolète et non sécurisé)",
+        "remediation": "Bloquer le port 139 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 139 -Protocol TCP",
+        "mitre_tactic": "TA0001",
+        "mitre_tactic_name": "Accès initial"
+      },
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "medium",
+        "category": "Réseau",
+        "message": "Port sensible ouvert: 139 (NetBIOS)",
+        "details": "Processus: System — NetBIOS (protocole obsolète et non sécurisé)",
+        "remediation": "Bloquer le port 139 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 139 -Protocol TCP",
+        "mitre_tactic": "TA0001",
+        "mitre_tactic_name": "Accès initial"
+      },
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "medium",
+        "category": "Réseau",
+        "message": "Port sensible ouvert: 139 (NetBIOS)",
+        "details": "Processus: System — NetBIOS (protocole obsolète et non sécurisé)",
+        "remediation": "Bloquer le port 139 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 139 -Protocol TCP",
+        "mitre_tactic": "TA0001",
+        "mitre_tactic_name": "Accès initial"
+      },
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "medium",
+        "category": "Réseau",
+        "message": "Port sensible ouvert: 139 (NetBIOS)",
+        "details": "Processus: System — NetBIOS (protocole obsolète et non sécurisé)",
+        "remediation": "Bloquer le port 139 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 139 -Protocol TCP",
+        "mitre_tactic": "TA0001",
+        "mitre_tactic_name": "Accès initial"
+      },
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "medium",
+        "category": "Réseau",
+        "message": "Port sensible ouvert: 135 (RPC DCOM)",
+        "details": "Processus: svchost — RPC DCOM (surface d'attaque importante)",
+        "remediation": "Bloquer le port 135 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 135 -Protocol TCP",
+        "mitre_tactic": "TA0001",
+        "mitre_tactic_name": "Accès initial"
+      }
+    ],
+    "low": [
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "low",
+        "category": "Utilisateurs",
+        "message": "7 utilisateurs locaux trouvés",
+        "details": "Vérifier la nécessité de chaque compte",
+        "remediation": "Supprimer ou désactiver les comptes inutiles: Computer Management > Local Users and Groups",
+        "mitre_tactic": "TA0007",
+        "mitre_tactic_name": "Découverte"
+      },
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "low",
+        "category": "Processus",
+        "message": "25 processus sans chemin défini",
+        "details": "Peut indiquer des processus temporaires, injectés, ou masqués",
+        "remediation": "Inspecter avec Process Explorer (SysInternals): https://docs.microsoft.com/sysinternals",
+        "mitre_tactic": "TA0005",
+        "mitre_tactic_name": "Évasion de défense"
+      },
+      {
+        "timestamp": "2026-07-03 23:51:47",
+        "severity": "low",
+        "category": "Réseau",
+        "message": "53 connexions externes établies",
+        "details": "Connexions actives vers des adresses distantes: 53 trouvées",
+        "remediation": "Analyser avec TCPView (SysInternals) ou: netstat -an | findstr ESTABLISHED",
+        "mitre_tactic": "TA0011",
+        "mitre_tactic_name": "Commande et contrôle"
+      }
+    ]
+  },
+  "total_alerts": 18
+}

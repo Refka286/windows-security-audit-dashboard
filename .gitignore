@@ -1,0 +1,27 @@
+# Donnees collectees (peuvent contenir des infos systeme sensibles)
+data/*.json
+
+# Dossier Claude Code (interne)
+.claude/
+
+# Dashboard HTML genere (grosse taille, regenerable)
+results/dashboard.html
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
