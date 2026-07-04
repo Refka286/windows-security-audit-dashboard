@@ -5997,7 +5997,7 @@
     "critical": [],
     "high": [
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "high",
         "category": "Événements",
         "message": "Événement 4625: Échec de connexion détecté (2 occurrence(s))",
@@ -6007,7 +6007,7 @@
         "mitre_tactic_name": "Accès aux identifiants"
       },
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "high",
         "category": "Événements",
         "message": "Événement 7045: Nouveau service installé (50 occurrence(s))",
@@ -6019,7 +6019,7 @@
     ],
     "medium": [
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "medium",
         "category": "Utilisateurs",
         "message": "Compte jamais connecté: DefaultAccount",
@@ -6029,7 +6029,7 @@
         "mitre_tactic_name": "Persistance"
       },
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "medium",
         "category": "Utilisateurs",
         "message": "Compte jamais connecté: Invité",
@@ -6039,7 +6039,7 @@
         "mitre_tactic_name": "Persistance"
       },
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "medium",
         "category": "Utilisateurs",
         "message": "Compte jamais connecté: refka",
@@ -6049,7 +6049,7 @@
         "mitre_tactic_name": "Persistance"
       },
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "medium",
         "category": "Utilisateurs",
         "message": "Compte jamais connecté: refka_0ju0t82",
@@ -6059,7 +6059,7 @@
         "mitre_tactic_name": "Persistance"
       },
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "medium",
         "category": "Utilisateurs",
         "message": "Compte jamais connecté: WDAGUtilityAccount",
@@ -6069,7 +6069,7 @@
         "mitre_tactic_name": "Persistance"
       },
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "medium",
         "category": "Services",
         "message": "Service critique arrêté: Windows Update",
@@ -6079,7 +6079,7 @@
         "mitre_tactic_name": "Évasion de défense"
       },
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "medium",
         "category": "Réseau",
         "message": "Port sensible ouvert: 445 (SMB)",
@@ -6089,7 +6089,7 @@
         "mitre_tactic_name": "Accès initial"
       },
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "medium",
         "category": "Réseau",
         "message": "Port sensible ouvert: 135 (RPC DCOM)",
@@ -6099,7 +6099,7 @@
         "mitre_tactic_name": "Accès initial"
       },
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "medium",
         "category": "Réseau",
         "message": "Port sensible ouvert: 139 (NetBIOS)",
@@ -6109,7 +6109,7 @@
         "mitre_tactic_name": "Accès initial"
       },
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "medium",
         "category": "Réseau",
         "message": "Port sensible ouvert: 139 (NetBIOS)",
@@ -6119,7 +6119,7 @@
         "mitre_tactic_name": "Accès initial"
       },
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "medium",
         "category": "Réseau",
         "message": "Port sensible ouvert: 139 (NetBIOS)",
@@ -6129,7 +6129,7 @@
         "mitre_tactic_name": "Accès initial"
       },
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "medium",
         "category": "Réseau",
         "message": "Port sensible ouvert: 139 (NetBIOS)",
@@ -6139,7 +6139,7 @@
         "mitre_tactic_name": "Accès initial"
       },
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "medium",
         "category": "Réseau",
         "message": "Port sensible ouvert: 135 (RPC DCOM)",
@@ -6151,7 +6151,7 @@
     ],
     "low": [
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "low",
         "category": "Utilisateurs",
         "message": "7 utilisateurs locaux trouvés",
@@ -6161,7 +6161,7 @@
         "mitre_tactic_name": "Découverte"
       },
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "low",
         "category": "Processus",
         "message": "25 processus sans chemin défini",
@@ -6171,7 +6171,7 @@
         "mitre_tactic_name": "Évasion de défense"
       },
       {
-        "timestamp": "2026-07-03 23:51:47",
+        "timestamp": "2026-07-04 16:54:29",
         "severity": "low",
         "category": "Réseau",
         "message": "53 connexions externes établies",

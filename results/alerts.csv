@@ -1,27 +1,27 @@
 ﻿timestamp,severity,category,message,details,remediation,mitre_tactic,mitre_tactic_name
-2026-07-03 23:51:47,high,Événements,Événement 4625: Échec de connexion détecté (2 occurrence(s)),"Échec d’ouverture de session d’un compte.
+2026-07-04 16:54:29,high,Événements,Événement 4625: Échec de connexion détecté (2 occurrence(s)),"Échec d’ouverture de session d’un compte.
 
 Sujet :
 	ID de sécurité :		S-1-5-18
 	Nom du compte :		REFKA$
 	Domaine du",Investiguer la source — activer Account Lockout Policy via secpol.msc,TA0006,Accès aux identifiants
-2026-07-03 23:51:47,high,Événements,Événement 7045: Nouveau service installé (50 occurrence(s)),"Un service a été installé sur le système.
+2026-07-04 16:54:29,high,Événements,Événement 7045: Nouveau service installé (50 occurrence(s)),"Un service a été installé sur le système.
 
 Nom du service :  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
 No",Vérifier le service: Get-Service | Where StartType -eq Automatic | sort Name,TA0003,Persistance
-2026-07-03 23:51:47,medium,Utilisateurs,Compte jamais connecté: DefaultAccount,Compte potentiellement obsolète ou backdoor,"Désactiver le compte via: net user ""DefaultAccount"" /active:no",TA0003,Persistance
-2026-07-03 23:51:47,medium,Utilisateurs,Compte jamais connecté: Invité,Compte potentiellement obsolète ou backdoor,"Désactiver le compte via: net user ""Invité"" /active:no",TA0003,Persistance
-2026-07-03 23:51:47,medium,Utilisateurs,Compte jamais connecté: refka,Compte potentiellement obsolète ou backdoor,"Désactiver le compte via: net user ""refka"" /active:no",TA0003,Persistance
-2026-07-03 23:51:47,medium,Utilisateurs,Compte jamais connecté: refka_0ju0t82,Compte potentiellement obsolète ou backdoor,"Désactiver le compte via: net user ""refka_0ju0t82"" /active:no",TA0003,Persistance
-2026-07-03 23:51:47,medium,Utilisateurs,Compte jamais connecté: WDAGUtilityAccount,Compte potentiellement obsolète ou backdoor,"Désactiver le compte via: net user ""WDAGUtilityAccount"" /active:no",TA0003,Persistance
-2026-07-03 23:51:47,medium,Services,Service critique arrêté: Windows Update,Service: wuauserv — Windows Update,"Démarrer le service: Start-Service -Name ""wuauserv"" ou via services.msc",TA0005,Évasion de défense
-2026-07-03 23:51:47,medium,Réseau,Port sensible ouvert: 445 (SMB),Processus: System — SMB (risque EternalBlue/ransomware),Bloquer le port 445 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 445 -Protocol TCP,TA0001,Accès initial
-2026-07-03 23:51:47,medium,Réseau,Port sensible ouvert: 135 (RPC DCOM),Processus: svchost — RPC DCOM (surface d'attaque importante),Bloquer le port 135 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 135 -Protocol TCP,TA0001,Accès initial
-2026-07-03 23:51:47,medium,Réseau,Port sensible ouvert: 139 (NetBIOS),Processus: System — NetBIOS (protocole obsolète et non sécurisé),Bloquer le port 139 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 139 -Protocol TCP,TA0001,Accès initial
-2026-07-03 23:51:47,medium,Réseau,Port sensible ouvert: 139 (NetBIOS),Processus: System — NetBIOS (protocole obsolète et non sécurisé),Bloquer le port 139 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 139 -Protocol TCP,TA0001,Accès initial
-2026-07-03 23:51:47,medium,Réseau,Port sensible ouvert: 139 (NetBIOS),Processus: System — NetBIOS (protocole obsolète et non sécurisé),Bloquer le port 139 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 139 -Protocol TCP,TA0001,Accès initial
-2026-07-03 23:51:47,medium,Réseau,Port sensible ouvert: 139 (NetBIOS),Processus: System — NetBIOS (protocole obsolète et non sécurisé),Bloquer le port 139 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 139 -Protocol TCP,TA0001,Accès initial
-2026-07-03 23:51:47,medium,Réseau,Port sensible ouvert: 135 (RPC DCOM),Processus: svchost — RPC DCOM (surface d'attaque importante),Bloquer le port 135 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 135 -Protocol TCP,TA0001,Accès initial
-2026-07-03 23:51:47,low,Utilisateurs,7 utilisateurs locaux trouvés,Vérifier la nécessité de chaque compte,Supprimer ou désactiver les comptes inutiles: Computer Management > Local Users and Groups,TA0007,Découverte
-2026-07-03 23:51:47,low,Processus,25 processus sans chemin défini,"Peut indiquer des processus temporaires, injectés, ou masqués",Inspecter avec Process Explorer (SysInternals): https://docs.microsoft.com/sysinternals,TA0005,Évasion de défense
-2026-07-03 23:51:47,low,Réseau,53 connexions externes établies,Connexions actives vers des adresses distantes: 53 trouvées,Analyser avec TCPView (SysInternals) ou: netstat -an | findstr ESTABLISHED,TA0011,Commande et contrôle
+2026-07-04 16:54:29,medium,Utilisateurs,Compte jamais connecté: DefaultAccount,Compte potentiellement obsolète ou backdoor,"Désactiver le compte via: net user ""DefaultAccount"" /active:no",TA0003,Persistance
+2026-07-04 16:54:29,medium,Utilisateurs,Compte jamais connecté: Invité,Compte potentiellement obsolète ou backdoor,"Désactiver le compte via: net user ""Invité"" /active:no",TA0003,Persistance
+2026-07-04 16:54:29,medium,Utilisateurs,Compte jamais connecté: refka,Compte potentiellement obsolète ou backdoor,"Désactiver le compte via: net user ""refka"" /active:no",TA0003,Persistance
+2026-07-04 16:54:29,medium,Utilisateurs,Compte jamais connecté: refka_0ju0t82,Compte potentiellement obsolète ou backdoor,"Désactiver le compte via: net user ""refka_0ju0t82"" /active:no",TA0003,Persistance
+2026-07-04 16:54:29,medium,Utilisateurs,Compte jamais connecté: WDAGUtilityAccount,Compte potentiellement obsolète ou backdoor,"Désactiver le compte via: net user ""WDAGUtilityAccount"" /active:no",TA0003,Persistance
+2026-07-04 16:54:29,medium,Services,Service critique arrêté: Windows Update,Service: wuauserv — Windows Update,"Démarrer le service: Start-Service -Name ""wuauserv"" ou via services.msc",TA0005,Évasion de défense
+2026-07-04 16:54:29,medium,Réseau,Port sensible ouvert: 445 (SMB),Processus: System — SMB (risque EternalBlue/ransomware),Bloquer le port 445 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 445 -Protocol TCP,TA0001,Accès initial
+2026-07-04 16:54:29,medium,Réseau,Port sensible ouvert: 135 (RPC DCOM),Processus: svchost — RPC DCOM (surface d'attaque importante),Bloquer le port 135 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 135 -Protocol TCP,TA0001,Accès initial
+2026-07-04 16:54:29,medium,Réseau,Port sensible ouvert: 139 (NetBIOS),Processus: System — NetBIOS (protocole obsolète et non sécurisé),Bloquer le port 139 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 139 -Protocol TCP,TA0001,Accès initial
+2026-07-04 16:54:29,medium,Réseau,Port sensible ouvert: 139 (NetBIOS),Processus: System — NetBIOS (protocole obsolète et non sécurisé),Bloquer le port 139 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 139 -Protocol TCP,TA0001,Accès initial
+2026-07-04 16:54:29,medium,Réseau,Port sensible ouvert: 139 (NetBIOS),Processus: System — NetBIOS (protocole obsolète et non sécurisé),Bloquer le port 139 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 139 -Protocol TCP,TA0001,Accès initial
+2026-07-04 16:54:29,medium,Réseau,Port sensible ouvert: 139 (NetBIOS),Processus: System — NetBIOS (protocole obsolète et non sécurisé),Bloquer le port 139 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 139 -Protocol TCP,TA0001,Accès initial
+2026-07-04 16:54:29,medium,Réseau,Port sensible ouvert: 135 (RPC DCOM),Processus: svchost — RPC DCOM (surface d'attaque importante),Bloquer le port 135 si non nécessaire: New-NetFirewallRule -Action Block -Direction Inbound -LocalPort 135 -Protocol TCP,TA0001,Accès initial
+2026-07-04 16:54:29,low,Utilisateurs,7 utilisateurs locaux trouvés,Vérifier la nécessité de chaque compte,Supprimer ou désactiver les comptes inutiles: Computer Management > Local Users and Groups,TA0007,Découverte
+2026-07-04 16:54:29,low,Processus,25 processus sans chemin défini,"Peut indiquer des processus temporaires, injectés, ou masqués",Inspecter avec Process Explorer (SysInternals): https://docs.microsoft.com/sysinternals,TA0005,Évasion de défense
+2026-07-04 16:54:29,low,Réseau,53 connexions externes établies,Connexions actives vers des adresses distantes: 53 trouvées,Analyser avec TCPView (SysInternals) ou: netstat -an | findstr ESTABLISHED,TA0011,Commande et contrôle
